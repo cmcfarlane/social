@@ -1,6 +1,10 @@
 Archer, Margaret S. *Realist Social Theory: The Morphogenetic Approach. Cambridge UP, 1995.
+=
 
-Second volume in a "trilogy" of works elucidating a general critical realist social theory. *Culture and Agency: The Place of Culture in Social Theory* (CUP, 1988) is the first volume and *Being Human: The Problem of Agency* (CUP, 2000) is the third volume. Since then has reconceived her project as providing the ontology for relational sociology's analytical framework.
+Second volume in a "trilogy" of works elucidating a general critical realist social theory. *Culture and Agency: The Place of Culture in Social Theory* (CUP, 1988) is the first volume and *Being Human: The Problem of Agency* (CUP, 2000) is the third volume. Since then has reconceived her project as providing the ontology for relational sociology's analytical framework. The book does valuable work in clearing away "methodological individualism" and "methodological collectivism" through a new articulation of the relation between structure/agency, but the account of the social is rather thing: only humans. 
+
+Chapter 1: The Vexatious Fact of Society
+=
 
 1:  "Social reality" is distinct from "natural reality" insofar as social reality, unlike natural reality, is dependent upon humans for its constitution. Natural reality in comparison is self-subsistent. Social reality is also distinct from "transcendental reality" in that "divinity is both self-subsistent and unalterable at our behest." 
 
@@ -62,4 +66,42 @@ Two implications.
 * Properties and powers of some strata are anterior to those of others precisely because the latter emerge from the former over time, for emergence takes time since it derives from interaction and its consequences which necessarily occur in time;
 * Once emergence has taken place the powers and properties defining and distinguishing strata have relative autonom from on another;
 * Such autonomous properties exert independent causal influences in their own right and it is the identification of these causal powers at work which validates their existence, for they may indeed by non-observables."
+
+15:  "The 'people' in society and the 'parts' of society are not different aspects of the same thing but are radically different in kind. This being so, then social realism implies a methodology based upon analytical dualism, where explanation of why things social are so and not otherwise depends upon an account of how the properties and powers of the 'people' causally intertwine with those of the 'parts'. Analytical dualism means emphasizing linkages by unpacking what was referred to earlier as the 'impact' and 'import' of and between different strata. This focal concern with *interplay* is what distinguishes the emergentist from the non-emergentist whose preoccupation is with *interpenetration*."
+
+15:  two basic propositions of morphogenetic/morphostatic approach: 
+
+"(i) That structure necessarily pre-dates the action(s) leading to its reproduction or transformation;
+(ii) That structural elaboration necessarily post-dates the action sequences which gave rise to it."
+
+16:  "structural condition->social interaction->structural elaboration"
+
+16:  "what *is held* to exist must influence considerations about how it should be explained. In other words, what social reality is deemed to consist of (and what is deemed non-existent) do affect how its explanation is approached."
+
+What is held not to exist must likewise be the case. What doesn't exist for Archer?
+
+First regulative function of a social ontology:
+
+17:  "description and explanation are not discrete from one another [...]. What social reality is to *be* also *is* that which we seek to explain."
+
+18:  "ontological concepts serve to define the explanandum [...]. Necessarily this circumscribes the explanans to such statements as could potentially explain social reality *as it has been defined* [...]."
+
+19:  "the significance of concepts employed to *describe* reality also circumscribe those which can legitimately be entertained as *explaining* it."
+
+Second regulative function of a social ontology:
+
+20:  "Social ontologies [...] govern *those concepts which are deemed admissable* in explanation as in description."
+
+21:  "Because the ontology contains judgements about the 'ultimate constituents' (and non-constituents) of social reality, it thus governs what sorts of concepts may properly be countenanced for any purpose whatsoever."
+
+22:  "Ontology, I am arguing, acts as both gatekeeper and bouncer for methodology."
+
+Third regulative function of a social ontology:
+
+23:  "Since the nature of social reality, like any other for once, is a matter of fact which is independent of the prior commitments of any theorists about what exists, then if and when an incongruous method of explanation gives evidence of working, or the congruent methodological programme breaks down in practice, this should result in a reinspection of those commitments themselves. What we think social reality is cannot be a separate matter from what we find it to be."
+
+[End regulative functions of a social ontology]
+
+Chapter 2: Individualism versus Collectivism: Querying the Terms of the Debate
+=
 
