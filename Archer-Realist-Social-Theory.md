@@ -1,10 +1,10 @@
 Archer, Margaret S. *Realist Social Theory: The Morphogenetic Approach. Cambridge UP, 1995.
-=
+==
 
 Second volume in a "trilogy" of works elucidating a general critical realist social theory. *Culture and Agency: The Place of Culture in Social Theory* (CUP, 1988) is the first volume and *Being Human: The Problem of Agency* (CUP, 2000) is the third volume. Since then has reconceived her project as providing the ontology for relational sociology's analytical framework. The book does valuable work in clearing away "methodological individualism" and "methodological collectivism" through a new articulation of the relation between structure/agency, but the account of the social is rather thing: only humans. 
 
 Chapter 1: The Vexatious Fact of Society
-=
+--
 
 1:  "Social reality" is distinct from "natural reality" insofar as social reality, unlike natural reality, is dependent upon humans for its constitution. Natural reality in comparison is self-subsistent. Social reality is also distinct from "transcendental reality" in that "divinity is both self-subsistent and unalterable at our behest." 
 
@@ -103,5 +103,12 @@ Third regulative function of a social ontology:
 [End regulative functions of a social ontology]
 
 Chapter 2: Individualism versus Collectivism: Querying the Terms of the Debate
-=
+--
+
+34:  "The defects of Individualism and its explanatory programme derive directly from empiricism." In other words, individual refers to concrete things of sense-perception while groups does not refer to concrete things of sense-perception. Therefore, individualism. But this is false. Because "Perceptual sense-data secure the 'individual' only as a visible *organism*, yet it is precisely the non-observable things about people (their dispositions) which constitute the basis of the Individualist account."
+
+39:  "I want to challenge this ontological claim to 'ultimate status' and its joint methodological implications, viz. that *in principle* all things social can be reduced to the individual whilst *in principle* such individuals are immune from further reduction to things psychological. Basically, the argument is that the postulated relations between the three areas represented by Psychologism, Individualism and Collectivism are inconsistent and cannot secure any kind of ultimate status for the Individualists' individual."
+
+
+
 
