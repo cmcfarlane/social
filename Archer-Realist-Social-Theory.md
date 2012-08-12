@@ -58,3 +58,8 @@ Two implications.
 
 12:  Second, "if the misleading preoccupation with *size* is abandoned, then the linkages which need forging to account for the vexatious facts of society are those between the 'people' and the 'parts' of social reality."
 
+14:  "social realism which accentuates the importance of emergent properties at the levels of both agency and structure, but considers these as proper to the strata in question and therefore *distinct* from each other and *irreducible* to one another, replaces the terms of the debate with entirely new ones. Irreducibility means that the different strata are *separable* by definition precisely because of the properties and powers which only belong to each of them and whose emergence from one another justifies their differentiation as strata at all. Three *differentia specifica* are denoted by the concept of emergence:
+* Properties and powers of some strata are anterior to those of others precisely because the latter emerge from the former over time, for emergence takes time since it derives from interaction and its consequences which necessarily occur in time;
+* Once emergence has taken place the powers and properties defining and distinguishing strata have relative autonom from on another;
+* Such autonomous properties exert independent causal influences in their own right and it is the identification of these causal powers at work which validates their existence, for they may indeed by non-observables."
+
