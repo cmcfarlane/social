@@ -1,4 +1,4 @@
-Archer, Margaret S. *Realist Social Theory: The Morphogenetic Approach. Cambridge UP, 1995.
+Archer, Margaret S. *Realist Social Theory: The Morphogenetic Approach*. Cambridge UP, 1995.
 ==
 
 Second volume in a "trilogy" of works elucidating a general critical realist social theory. *Culture and Agency: The Place of Culture in Social Theory* (CUP, 1988) is the first volume and *Being Human: The Problem of Agency* (CUP, 2000) is the third volume. Since then has reconceived her project as providing the ontology for relational sociology's analytical framework. The book does valuable work in clearing away "methodological individualism" and "methodological collectivism" through a new articulation of the relation between structure/agency, but the account of the social is rather thing: only humans. 
