@@ -168,3 +168,50 @@ Third count---causal efficacy:
 
 Chapter 3: Taking Time to Link Structure and Agency
 -
+
+65:  "a theoretical approach which is capable of *linking* structure and agency rather than *sinking* one into the other. The central argument is that structure and agency can only be linked by examining the *interplay between them over time*, and that without the proper incorporation of time the problem of structure and agency can never be satisfactorily resolved."
+
+66:  "each possesses autonomous emergent properties which are thus capable of independent variation and therefore of being out of phase with one another in time."
+
+67:  Analytical dualism: "Firstly, it depends upon an ontological view of the social world as stratified, such that the emergent properties of structures and agents are irreducible to one another, meaning that in principle they are analytically separable. Secondly, it asserts that given structures and agents are also temporally distinguishable (in other words, it is justifiable and feasible to talk of pre-existence and posteriority when dealing with specific instances of the two), and this can be used methodologically in order to examine the interplay between them and thus explain changes in both---over time. In a nutshell, 'analytical dualism' is a methodology based upon the *historicity of emergence*."
+
+70:  Society is an essential open system. Why is it not closed? "Closure depends upon two conditions, an intrinsic and an extrinsic one, both of which are ineluctably violated by what people are."
+
+1.  Extrinsic: "requires that no new emergent properties are developing *outside* the system, which can interfere with the exercise of its known emergent powers in unpredictably ways. Yet whatever social structures are examined, they are only operative in and through the world of people which props the door permanently open because human action is typified by innovativeness, a capacity for interpreting the same material conditions, cultural elements, circumstances and situations in different ways and hence for introducing novel patterns or courses of action in response to them." This feature ("innovativeness") can't be controlled for and makes closure impossible.
+
+2.  Intrinsic: "there must be no change or qualitative variation (like the effects of impurities in chemistry experiments) in the entity possessing the causal powers if the mechanism is to operate consistently and produce regular results. Closure thus implies that no new properties can develop *inside* the system or structure in question, which change it and alter its effects."
+
+70:  "any social structure is dependent upon people and operative only through people"
+
+70:  While society is an open system characterized by emergence, this presents some obvious difficulties for ontology, methodology, and theory. It is thus necessary to clearly distinguish the properties of structures from the properties of people: i.e., analytical dualism must be possible. "In brief it is *necessary* to separate structure and agency (a) to identify the emergent structure(s), (b) to differentiate between their causal powers and the intervening influences of people due to their quite different causal powers as human beings, and, (c) to explain any outcome at all, which in an open system always entails an interplay between the two. In short, separability is indispensable to realism."
+
+71:  The analytical separation between structure and agency is necessary, but not sufficient for a realist theory. A temporal distinction between the two is equally necessary. Structure and agency are out of phase with one another. "Structures (as emergent entities) are not only irreducible to people, they pre-exist them, and people are not puppets of structures because they have their own emergent properties which mean they either reproduce or transform social structure, rather than creating it."
+
+75:  "agents and individuals cannot be used interchangeably"
+
+75:  "to state that some structures are pre-existent to determinate agents and activities has no ontological priority over emphasizing that the self-same agents are themselves prior to later structural elaboration."
+
+78:  "Determinism is not built in to the morphogenetic perspective."
+
+79:  "Voluntarism has an important place in morphogenesis but is ever trammelled by past structural and cultural constraints."
+
+79-80:  "In brief, the Fallacy of Conflation always entails a failure to incorporate temporality into social theory properly. This it seems is a logical consequence of conflation itself."
+
+80:  "In both the 'upwards' and 'downwards' versions, the fundamental drawback is that by making agency *dependent* upon structure, or vice versa, they automatically preclude any two-way interplay between the levels---because in each, one level is rendered inert [i.e., an epiphenomenon of the other]. Consequently, the dependent element is robbed of the capacity to exploit or to influence the determining element, for it lacks the autonomy and independence to do so. This then blocks an adequate conceptualization of the processes explaining social stability and change. Instead, adherents of both approaches advance rather crude unilateral accounts, which have equal but opposite defects. In the one, structural properties are simply pushed around by some untrammelled dominant group or placed at the mercy of capricious renegotiation by unconstrained agency. In the other, social structure imposes its choreography on interaction and agents are reduced to *träger* or bearers of its properties, whether through oversocialization or mystification."
+
+[Convincing attack on downwards, upwards, and central conflationism in terms of time, but the outline of the attack on each can be derived from the passage on page 80 already quoted.]
+
+90:  "In *structural conditioning*, systemic properties are viewed as the emergent or aggregate consequences of past actions. Once they have been elaborated over time they are held to exert a causal influence upon subsequent interaction. Fundamentally, they do so by shaping the situations in which later 'generations' of actors find themselves and by endowing various agents with different vested interests according to the positions they occupy in the structures they 'inherit' [...] In short, when we talk about structural properties and their effects from the morphogenetic perspective, we are also endorsing the realist notion of emergence and its causal powers."
+
+90-1:  "However, *social interaction* is seen as being structurally conditioned but never as structurally determined (since agents possess their own irreducible emergent powers). On the one hand, the mediatory mechanism which transmits structural influences to human actors consists in the former moulding frustration or rewarding contexts for different groups of agents, depending upon the social positions the occupy. In turn, it is argued that these experiences of frustrations or benefits conditions different situational interpretations and dissimilar action patterns: groups experiencing exigencies seek to eradicate them (thus pursuing structural change) and those experiencing rewards try to retain them (thus defending structural stability). Regularities of this kind, detectable in subsequent patterns of interaction, are reflections of these objective opportunity costs. None the less their effect is only conditional: they force no one, but simply set a price on acting against one's self-declared interests and a premium on following them (consequently detectable regularities do not even approximate to constant conjunctures). To acknowledge this involves nothing more sinister than the Weberian assumption that most of the time for most people there is a rough congruence between their interests, interpretations and actions. On the other hand, since conditioning is not determinism, the middle element of the cycle also recognizes the promotive creativity of interest groups and incorporates their capacity for innovative responses in the face of contextual constraints. Equally, it accommodates the possibility of reflective self-sacrifice of inherited vested interests on the part of individuals or groups."
+
+91:  "The *structural elaboration* which then ensues is interpreted as being a largely unintended consequence. The modification of previous structural properties and the introduction of new ones is the combined product of the different outcomes pursued simultaneously by various social groups. The unintended element largely results from group conflict and concession which together mean that the consequential elaboration is often what no-one sought or wanted. [...] The end point and the whole point of examining any particular cycle is that we will then have provided an analytical *history* of emergence of the problematic properties under investigation."
+
+91:  "Thus every morphogenetic cycle distinguishes three broad analytical phases consisting of (a) a given structure (a complex set of relations between parts), which conditions but does *not* determine (b), social interaction. Here, (b) also arises in part from action orientations unconditioned by social organization but emanating from current agents, and in turn leads to (c), structural elaboration or modification---that is, to a change in the relations between parts where morphogenesis rather than morphostasis ensued."
+
+91:  "Advocates of the morphogenetic perspective do not deny that social interaction is the ultimate source of complex phenomena (which include both unintended aggregate and emergent consequences)"
+
+Chapter 4: Elision and Central Conflation
+-
+
+
