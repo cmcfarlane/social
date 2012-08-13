@@ -109,6 +109,28 @@ Chapter 2: Individualism versus Collectivism: Querying the Terms of the Debate
 
 39:  "I want to challenge this ontological claim to 'ultimate status' and its joint methodological implications, viz. that *in principle* all things social can be reduced to the individual whilst *in principle* such individuals are immune from further reduction to things psychological. Basically, the argument is that the postulated relations between the three areas represented by Psychologism, Individualism and Collectivism are inconsistent and cannot secure any kind of ultimate status for the Individualists' individual."
 
+42:  How Individualists provide an account of structure: "That Individualists remain undaunted is due to their empiricism itself which reassures them that, however complex, there are only two possible ways in which it can be construed: either social organization is constituted by things which are manifestly real or by reified entities, and of the two the former must be correct." Thus, they must show that the manifestly real things are "other people." 
+
+42-3:  To demonstrate this claim ("an *ontological assertion*"), it must be demonstrated. Individualists must show that "*social structure is not*: (i) autonomous or independent, (ii) pre-existent, (iii) causally efficacious." It has been argued persuasively by Collectivists that they all on three.
+
+First count---autonomy:
+
+43:  "If autonomy is to be withheld from the social context and it is be denied any independence from people, this that the Individualist must vindicate the claim that it can be treated as nothing other than an *aggregate* of individuals, which as such has no independence from its constituents---therefore our social environment is constituted by 'interpersonal relations'. It follows that if the 'social structure' is only an aggregate, then 'the group' becomes synonymous with 'the social' to the Individualist."
+
+This can be defeated in two ways. First, speaking of kinship systems, we are comparing different sets of rules and not different sets of activities which may or may not be in conformity with those rules. Adherence to the rule (or not) does not make or unmake the rule. Thus, the group (=aggregate individuals) and the rule (=structure) can be distinguished. Likewise, in stereotypical situations (student/teacher, tenant/landlord, customer/banker) the roles performed by each are more important to the explanation than any particular details about the individuals involved in the relation. Indeed, "in social analysis we often are and have to be less concerned with interpersonal relations that with the endurance of *im*personal role relationships."
+
+Second count---pre-existence:
+
+43-4:  "Thus, the social context has become the effect of *contemporary* other people. For it follows that whatever makes up our environment (such as enduring roles, positions and distributions) are all things that the 'people concerned' now do not want to change/do not know how to change or do not think about changing. In other words, whatever the origins of the social tendencies and features we observe, their present existence is due in some way to the people present. Therefore, explanation of the social structure is always in the present tense and responsibility for everything present lies firmly on the shoulders of those here present."
+
+However, pre-existence of the social context (i.e., prior to the present) is a fact. The language of the society pre-exists any individual speaker/member and this acts as a constraint/enabler. The same applies to social relations (tenant/landlord) that have developed over time through a series of repeated interactions. This isn't limited to things such as language and social roles. Even demographic features work this way in that they can be described as an aggregate of individuals and even if all those individuals agreed to change an aspect of the aggregate (birth rate), this present decision would only be actualized over time through either a changed birth rate (or not). 
+
+Third count---causal efficacy:
+
+[End refutation of Individualism]
+
+
+
 
 
 
