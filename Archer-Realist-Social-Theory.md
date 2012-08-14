@@ -214,4 +214,55 @@ Chapter 3: Taking Time to Link Structure and Agency
 Chapter 4: Elision and Central Conflation
 -
 
+94:  Why does Giddens find virtue in the inseparability/structuration thesis? "Basically the answer lies in what he hopes to wrest social theory away from---the reified notion (in his view) of emergent properties, as prior to and autonomous from action and the reductionist conception (in his view) of individuals, with personal properties which are independent and detachable from the social context of their formation and expression. The proposal is that all of this can be transcended by substituting a social ontology of praxis."
+
+94-5: How does concept of social practices resolve/deal with issues of social complexity? Flatten the depth of the social world by denying existence to emergent properties. As a result, distinction between micro- and macro- is denied in favour of face-to-face interaction and distanced interaction. These are seen as qualitatively different. 
+
+95:  In face-to-face interaction, individuals draw upon structural properties (=rules/resources) and recreate these structural properties through their use. The outcome is that the entirety of social structure is used in any and all social interactions regardless of how small. While Giddens argues that the entire structure is "involved" in every social act, he denies that the structure is determinate in the social act.
+
+95:  Social practices are also the foundations of institutions, which are "nothing more than regularized practices, structured by rules and resources. When 'structural properties' are drawn upon in a routinized fashion, an institution becomes 'sedimented' as a clustering of the practices constituting it. In turn this means that 'institutions' are never something concrete to which we can point but are essentially processual; ever in a fluid process of becoming and never in a (temporal or temporary) fixed state of being, because all structural properties and all actions are always potentially transformational."
+
+96:  "At the largest scale of interaction, the social system (defined by him as the visible pattern generated from agents transforming the modalities of structural properties to produce this patterning), Giddens is still not dealing with anything separable from action. The only difference is that, at the systematic level, he is dealing with relations between 'groups and collectivities' rather than individual actors. Thus there is complete continuity, for here too 'the integration of social systems is something which is constantly reproduced by the action of agents', through their social practices---there are simply more of both."
+
+96:  "the system merely refers to relations between larger numbers occurring at a distance"
+
+97-8:  "Because 'structure' is inseparable from 'agency' then, *there is no sense in which it can be either emergent or autonomous or pre-existent or causally influential*. Instead, 'structural properties' (i.e., defined as 'rules and resources') are 'instantiated' in social practices and have no existence outside this instantiation by agency. In this consistent ontology of praxis, structural properties exist and have any efficacy only by courtesy of agents. Without 'instantiation', they have only a 'virtual existence' as 'material' entities; materials belonging to the physical rather than the social world (land, resources, or printed paper labelled, for instance, the Highway Code)."
+
+98:  "if 'structural properties' really only exist when instantiated in social practices, where, apart from their 'material existents' do they actually have their existence?" Structures can only exist "as memory traces which are transmitted from one set of agents to others", "in the heads of social actors" (Craib), "internal to actors" (Kilminster).
+
+105:  To be successful, the Elisionist account of structure must (1) break with all preceding notions of structure [i.e., individualist/collectivist, as well as emergentist] and (2) do so without any remainder that is not captured by the concept of social practices.
+
+105-6:  Methodological Individualist definition of structure: "patterns of aggregate behaviour that are stable over time." Rejected for four reasons: (1) atomism; (2) that structuration is nothing but a matter of aggregation; (3) equating the pattern with structure; and (4) that structures are enduring.
+
+106:  Methodological Holism definition of structure: "lawlike regularities that govern the behaviour of social facts." Rejected for for four reasons: (1) reification of structure through disconnecting it from action; (2) assumption that regularities are lawlike in their production of consequences; (3) that these lawlike regularities are deterministic; and (4) that these structures endure over time and have an ontological status comparable to natural laws.
+
+106:  Methodological Realist definition of structure: "systems of human relations among social positions." Rejected for three reasons: (1) structures refer to real entities with their own powers; (2) social interaction is independent from social structure; (3) structure pre-exists social action and thus acts as a constraining force.
+
+107:  The structuration concept of structure needs to do three things:
+
+1. "shifts the referent of 'structure' away from identifiable forms of social organization (the division of labour, educational systems, political parties ...) and links them instead to underlying organizing principles, which generate what they do only because agents draw upon them in particular ways in the course of the social practices in which they engage."
+
+2. "when it is objected that even here things like educational systems still figure in Elisionist theory, it is quickly countered that this visible pattern has no independent existence or influence but is only an abstraction from the repertoire of repetitive or routinized practices surrounding education. Institutions themselves are thus reconstrued as 'regularized practices', whose very regularity (i.e., endurance) depends upon agency invoking the same structural principles in the same way because praxis has become routinized."
+
+3. "one of the most obvious difficulties in these re-definitional manoeuvres is that the very 'rules and resources' which are drawn upon to generate social practices could therefore be held to be something other than (i.e., autonomous, external, anterior to) social practices. Here, the defence consists in placing 'rules and resources' outside time and space and endowing them with only a 'virtual existence' until or unless 'instantiated' by agents in the course of social praxis."
+
+
+
+
+
+Chapter 5: Realism and Morphogenesis
+-
+
+Chapter 6: Analytical Dualism: The Basis of the Morphogenetic Approach
+-
+
+Chapter 7: Structural and Cultural Conditioning
+-
+
+Chapter 8: The Morphogenesis of Agency
+-
+
+Chapter 9: Social Elaboration
+-
+
 
