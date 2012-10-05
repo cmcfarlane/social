@@ -5,6 +5,8 @@ Note: first volume in a "trilogy" of works elucidating a general critical realis
 
 Note: the is a second trilogy that elaborates on these themes in the context of reflexivity as constitutive of the late modern experience: *Structure, Agency, and the Internal Conversation* (CUP, 2003), *Making Our Way Through the World: Human Reflexivity and Social Mobility* (CUP, 2007), and *The Reflexive Imperative in Late Modernity* (CUP, 2012).
 
+Note: at conclusion of second chapter, it remains unclear as to what specifically is meant by "culture," especially in comparison to "social" or "structure." Presumably, positive content--along with analytical concepts or "units"--will be introduced following the negative critique conflationism.
+
 Preface
 ---
 
@@ -130,8 +132,25 @@ Discussing Peter Sorokin, *Social and Cultural Dynamics*. London: Peter Owen, 19
 
 43:  "By presuming that Cultural Systems are indeed coded phenomena, they are necessarily assumed to be susceptible of decoding. Hence decipher*ing* becomes a technical problem; decipher*ability* is not questioned, even when it is beyond our present ingenuity."
 
+45:  "The fundamental difficulty of the structuralist position arises from the fact that rival decodings can be advanced by starting from different premisses (that is, binary opposition could be replaced by a 'trinitarian' principle or any other which can plausibly be attributed to our mental constitution): there is no way of adjudicating between them assuming they are all internally consistent."
+
 Chapter 3: 'Upwards Conflation': the manipulated consensus
 ---
+
+46-7:  "Thus many forms of neo-Marxism take as fundamental precisely that which the downwards conflationists had sedulously neglected--the role of power in the imposition of culture. What differentiates between the two versions of the Myth is not the end-product, which in both cases is a state of cultural integration, but how this is produced: here we are dealing with a manipulated consensus. [...] Here conflation is from the bottom upwards, since it is Socio-Cultural conflict which generates a common Cultural System--usually represented as 'the dominant ideology'."
+
+49:  Archer raises four questions against the dominant ideology thesis:
+
+1. Is there a single dominant culture?
+2. Is the dominant culture internally coherent?
+3. Do subordinate cultures exist?
+4. How is cultural domination produced?
+
+49:  The first question deals with the constitution of the Cultural System. "From Marx, dominant ideology theorists take the basic notion that the Cultural System is articulated by the group which dominates at the Socio-Cultural level--the 'ideas of the ruling class are in every epoch the ruling ideas'." But, note, for Marx, ideas is in the plural. However, for most proponents of the dominant ideology thesis, ideas is in the singular. Marx implies that there are multiple strands of ideas that make up the dominant ideas; neo-Marxists seem to deny this. However, while Marx recognizes this "pluralism" (Archer), he denies its importance in the case of conflicts within the ruling class to the extent that the conflict disappears when functionally necessary. Dominant ideology theorists have taken this to mean that there are no conflicts because conflict can disappear when necessary.
+
+50:  However, ideas cannot "disappear" in a real sense: once created, they are part of the Cultural System. The question, then, is how the conflict is resolved at the Socio-Cultural level. "Effectively this then imposed a task on neo-Marxists, namely to specify the actual mechanisms by which the Socio-Cultural level *socially* (not ontologically) nullifies part of the Cultural-System (that is, when the latter threatens the former)."
+
+
 
 Chapter 4: 'Central Conflation': the duality of culture
 ---
