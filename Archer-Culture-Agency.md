@@ -62,13 +62,73 @@ xxvii:  unification: "the possible conceptual and theoretical unification of str
 
 xviii:  "But utilizing this common framework it becomes easier to see *how* structure and culture intersect in the middle element of their respective morphogenetic cycles: through structural-interest groups endorsing some corpus of ideas in order to advance their material concerns but then becoming enmeshed in the situational logic of that part of the cultural domain; and through ideal-interest groups seeking powerful sponsors to promote their ideas but then immediately embroiling cultural discourse in power-lay within the structural domain."
 
-
-
 Chapter 1: The Myth of Cultural Integration
 ---
 
+1:  Culture has "the weakest analytical development of any key concept in sociology [...]"
+
+1:  Descriptive level: "remains inordinately vague despite little dispute that it is indeed a core concept," "there are as yet no 'units' for describing culture," "instead of different 'cultural structures' there are endless 'cultural differences'."
+
+1:  Explanatory level: "culture swings from being the prime mover (credited with engulfing and orchestrating the entire social structure) to the opposite extreme where it is reduced to a mere epiphenomenon (charged only with providing an ideational representation of culture)."
+
+Are these two claims (descriptive, explanatory) still true in light of the development of Jeff Alexander's strong program in cultural sociology?
+
+3:  a priori assumption regarding culture derives from anthropological theory: "On the one hand, its strong aesthetic rather than analytical orientation, which led to an endorsement of '"artistic" hermeneutics as the method for grasping the inner sense of cultural wholes'. On the other hand this approach, based on the intuitive understanding of cultural configurations, entailed a crucial prejudgement, namely an insistence that coherence was there to be found, that is a mental closure against the discovery of cultural inconsistencies."
+
+4:  the standard appropriation of culture in sociological theory confounds two issues. First, logical consistency, "the degree of internal compatibility between the components of culture" and, second, casual consensus, "the degree of social uniformity produced by the imposition of culture [...] by one set of people on another."
+
+4:  "The main proposition advanced here is that the two are logically and empirically distinct, hence they can vary independently of one another."
+
+5:  "Power relations are the causal element in cultural consensus building and, far from unproblematically guaranteeing behavioural conformity, they can provoke anything from ritualistic acceptance to outright rejection of the culture imposed."
+
+6:  "the basic deficiency of the anthropological heritage, as appropriated in sociology, was that it resisted making any analytical distinctions at all. The net effect of this insistence on cultural compactness was that it precluded any theory of cultural development springing from internal dynamics."
+
+7:  "The image of cultural coherence is grounded in traditional society."
+
+14:  "the theoretical incorporation of inconsistency at the Systemic level does two things: it specifies certain necessary conditions for stability or change in the Cultural System. Every contradiction represents a potential for change. Whether it does lead to this rather than to active containment depends on the activities of groups and individuals at the Socio-Cultural level. Thus the second implication of giving due attention to the flaws in Cultural System integration is the necessity of distinguishing this level analytically from Socio-Cultural integration--for the latter determines the fate of those discontinuities, that is whether they are amplified into recognisable changes or damped down to preserve the picture of social continuity."
+
+15:  "cultural coherence may not stem from the integration of the Cultural System but from the lack of alternatives to it--and this itself is a property of the System. Too frequently it has been presumed to be a property of the Socio-Cultural level."
+
+15-6:  "Equally this question of alternatives (like our discussions of inconsistencies) is linked to the conditions of cultural stability or change. The existence of alternatives at the Systemic level, or the presence of *variety* as it is termed in information theory, is essential for *adaptive Systems*. This mathematical theory postulates some source which continuously generates variety (new signals, symbols, messages) and some receiver who can put this variety to use." This view from information theory is helpful in two regards: first, "alternatives (variety) must be available to be drawn upon the Systemic level" and, second, "that there must be receivers at the Socio-Cultural level who are willing and able to make use of them."
+
+18:  "cultural poverty is like physical poverty--grinding."
+
+18:  "Primitive cultural accumulation is almost as difficult as primitive capital accumulation and is, of course, related to it."
+
+20-1:  "In the first case (typical of normative functionalism) the Myth was restated in terms of 'downwards' conflation. Here, Cultural System integration engulfs Socio-Cultural integration through processes of orchestration, regulation and internalization. In the opposite case (represented by neo-Marxism) the Myth was re-instated in the form of 'upwards' conflation. Basically the Socio-Cultural level swallows up the Cultural System as the effect of social domination and ideological manipulation. Finally, just as both of these versions were becoming rather frayed under the wear and tear of criticism, the Myth was suddenly revitalized by a brand new exposition of it--this time taking the form of 'central' conflation (typified by the 'structuration' approach). This was not merely another shot in the arm: rather it extended an eternal life-support system to the Myth by seeking to banish for good the analytical dualism, one which the present critique depends. To these theorists the Myth did indeed elide the Systemic and Socio-Cultural levels--but rightly so. Since the two were mutually constitutive and consequently inseparable, it was therefore improper to analyse them dualistically. That this full-frontal defence of the inexorable duality of culture was even less capable of providing a theory of cultural change than the two preceding forms of conflation, is taken here to constitute the final condemnation of the whole conflationary procedure."
+
+21:  "The common denominator of the various conflationists who buttress the Myth of Cultural integration is that they elide logical relations with causal connections and then judge this *ensemble* to make a coherent whole. On the contrary, an approach based on analytical dualism challenges this judgement and the premisses on which it is founded. Instead, by distinguishing logical relations (pertaining to the Cultural System) form the causal relations (pertaining to the SOcio-Cultural level) and allowing of their independent variation, the interface between them becomes a problematic area for intensive exploration. The results of this would identify the *conditions* for integration in the cultural realm, without that state of affairs being taken as a foregone conclusion--any more than it can be in the structural domain. Cultural integration is demythologized by rendering it contingent upon the particular patterning of inter-connections *at* the two different levels and *between* the two different levels."
+
 Chapter 2: 'Downwards Conflation': on keys, codes and cohesion
 ---
+
+Discussing Functionalism and Structuralism as modes of downwards conflation
+
+28-9:  "As far as the analysis of the Cultural System is concerned the 'essence of the logico-meaningful method of cognition is ... in the finding of the central principle (the 'reason') which permeates all the components, gives sense and significance to each of them, and in this way makes cosmos of a chaos of unintegrated fragments'. But how do we avoid imposing a meaning which is simply not there, or how do we validate the meanings we claim to detect? Sorokin's answer is that we avoid false attribution by identifying the 'major premise of each system', and are subsequently confirmed in the correctness of our identification by the fact that this 'major premise' will then act as 'the key', in conjunction with the canons of logic, to 'the nature of the entire unity'. The presumption that there is a key to be found, which is itself predicated on the assumption that Cultural Systems are coherently ordered, though not obviously so at first glance, is Sorokin's lasting bequest to sociology."
+
+Discussing Peter Sorokin, *Social and Cultural Dynamics*. London: Peter Owen, 1957.
+
+29:  However, Sorokin is unable to specify how this key (or code) is identified and how what is identified is known to be correct; e.g., does not seem to recognize possibility of selective or false identification. Likewise, he claims there are two ideal types of Cultural Systems (Ideational, Sensate), but recognizes that the idea types rarely exist in pure form, thus leading to the conclusion that the vast majority of Cultural Systems are composed of various mixes of the two. But, there is no reason to assume that the mix is in any way coherent. Sorokin notes, "Thus the logic of such a cultural type is often nonlogical or illogical."
+
+31:  "Because of the empirical predominance of 'mixture' at the Systemic level, Sorokin is driven to talk not about influence of *the* Cultural System but about the effect of the *dominant* culture. [...] what makes the dominant dominate remains an enigma, since Sorokin never grounds domination in social interaction."
+
+33:  "mainstream [Parsonian] Functionalism pressed on with downwards conflation in a more sophisticated but also more rigid form."
+
+33:  Blake & Davis: fallacy of normative determinism--"the error of assuming that because norms (at the Cultural System level) are meant to control behaviour, then this is sufficient ground for assuming that they successfully do so (at the Socio-Cultural level)."
+
+35:  "Like Sorokin he [Parsons] can offer no mechanism for *accounting* for the predominance of certain values."
+
+38-9:  "the superficial appearance which culture presented to its observers was closer to the old imagery of 'booming, buzzing confusion', but its hidden interconnections could be explicated by detection of an underlying and covert *code* which regulated them. The basic idea, stemming from linguistic structuralism, was that cultures could be decoded. The fundamental premiss here is obviously that Cultural Systems are in fact encoded (ontologically they are codes): the fundamental methodological implication for sociology is clearly that its task is to decipher them."
+
+39:  Structuralists had Durkheim, Mauss, Saussure in background, but drew especially on Chomsky; specifically, two principles: "that of a limited number of generative principles underlying any linguistic manifestation, and the associated idea of 'rule-governed creativity', that is the possible production of unlimited manifestations which were none the less obedient to the code. Already in Chomsky's above notions, the germs of conflation abound. The generative principles (the linguistic code) regulate linguistic creativity (social usage of language). In other words, the independence of the latter (the Socio-Cultural level in our terms) is reduced to its ingenuity in elaborating permutations of the code (the Systemic level in our terms). As the users make and can make no reciprocal contribution to altering the code itself, the downwards inflection is also implicit."
+
+39:  "Essentially the very nature of the structuralist endeavour involves the assumption of *discoverable cultural coherence*."
+
+40:  "Not only is Cultural System integration deemed to be exceedingly high from the structuralist perspective but, in typical conflationist fashion, it is held to generate an equivalent degree of Socio-Cultural integration."
+
+40:  "When carried over [linguistic model of reproducing the language in each grammatical utterance] to the cultural realm it means that to employ any cultural element (cooking a meal, singing a song, gaining a living, explaining the cosmos) invokes the Systemic code and therefore enmeshes those engaging in such activities in its Socio-Cultural reproduction."
+
+43:  "By presuming that Cultural Systems are indeed coded phenomena, they are necessarily assumed to be susceptible of decoding. Hence decipher*ing* becomes a technical problem; decipher*ability* is not questioned, even when it is beyond our present ingenuity."
 
 Chapter 3: 'Upwards Conflation': the manipulated consensus
 ---
