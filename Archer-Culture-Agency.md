@@ -150,6 +150,18 @@ Chapter 3: 'Upwards Conflation': the manipulated consensus
 
 50:  However, ideas cannot "disappear" in a real sense: once created, they are part of the Cultural System. The question, then, is how the conflict is resolved at the Socio-Cultural level. "Effectively this then imposed a task on neo-Marxists, namely to specify the actual mechanisms by which the Socio-Cultural level *socially* (not ontologically) nullifies part of the Cultural-System (that is, when the latter threatens the former)."
 
+50-1:  "From Marx is taken the generic stress on the social origins of men's ideas (the very formation of individual consciousness by social conditions) and the particular emphasis on the nexus between material interests and consonant ideas; the 'ruling ideas are nothing more than the ideal expression of the dominant material relationships grasped as ideas'. Here, then, we have the basic notion of the *causal* level (material social relations) generating the *logical* level, the Cultural System. [...] Instead the dominant ideology theorists reason that because a group has a coherent set of interests these will be given consistent ideational expression."
+
+51:  "Indeed part of the very instrumentality of ideology means that ideologies are matters of convenience, often hastily fabricated, rather than studiously elaborated and double-checked to eliminate contradiction."
+
+52:  "From Marx is taken the fundamental tenet that in each social formation are found 'the ruling ideas of the epoch'." Two possible interpretations. "Soft" only ruling ideas are visible because subordinate groups lack the capacity to give expression to their ideas; "harder" cannot be subordinate culture(s) because all classes are subsumed into a single culture. The dominant ideology thesis assumes the "hard" interpretation.
+
+52:  "Marx thereby implies that *any* epoch can be examined from other than the dominant viewpoint and this in turn must mean that *every* Cultural System can itself furnish at least one alternative vantage point."
+
+53:  "Marx accepts not merely the existence of counter-cultures, but also that they may be distributed quite extensively in society and that collectively they play a continuous role in social conflict."
+
+54:  "The account of how cultural domination is produced relies upon the key role assigned to power by Marx in bringing about a manipulated cultural consensus. Yet even in the original quotation Marx is cautious about the engineering of cultural integration being a foregone conclusion [...] His insertion of the caveat 'generally speaking' indicates that to him such control is no absolute guarantee of the success of this enterprise. The additional assumption introduced by the dominant ideology theorists is that once power is used to manipulate the beliefs of others it will always be successful in generating cultural consensus."
+
 
 
 Chapter 4: 'Central Conflation': the duality of culture
