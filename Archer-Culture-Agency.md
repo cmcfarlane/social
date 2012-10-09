@@ -220,8 +220,11 @@ Chapter 5: Addressing the Cultural System
 106: Four propositions to be defended:
 
 > (i) There are logical relationships between components of the Cultural System (CS).
+
 > (ii)  There are causal influences exerted by the CS on the Socio-Cultural (S-C) level.
+
 > (iii) There are causal relationships between groups and individuals at the S-C level.
+
 > (iv) There is elaboration of the CS due to the S-C level modifying current logical relationships and introducing new ones.
 
 106:  The result is a pattern: Cultural Conditioning->Cultural Interaction->Cultural Elaboration. This cycle is continuous such that CE forms the new CC.
