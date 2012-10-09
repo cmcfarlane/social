@@ -233,6 +233,13 @@ Chapter 5: Addressing the Cultural System
 
 107:  "(1) Ontologically it is maintained that there are objective relations of contradiction whose existence is not dependent on people's awareness of them; (2) epistemologically it is claimed that these can be known by reference to invariant logical principles the applicability of which is not relative to time or place; (3) methodologically it is argued that the problems involved in their cross-cultural identification are not intractable."
 
+107:  "As an emergent entity the Cultural System has an objective existence and autonomous relations amongst its components (theories, beliefs, values, arguments, or more strictly between the propositional formulations of them) in the sense that these are independent of anyone's claim to know, to believe, to assert or to assent to them. At any moment the CS is the product of historical Socio-Cultural interaction, but having emerged (emergence being a continuous process) then *qua* product, it has properties of its own. Like structure, culture is man-made but escapes its makers to act back upon them. The CS contains constraints (like the things that can and cannot be said in a particular natural language), it embodies new possibilities (such as technical applications undreamed of in the pure theory on which they are based), and introduces new problems through the relationships between the emergent entities themselves (the clash of theories), between these and the physical environment (mastery and ruin), between these and human actors (proud makers and the brave openers of a Pandora's box)."
+
+107-8:  "Consequently contradictions exist independently of people noticing them or caring about them--indeed since there are an infinite number of situations upon which any theory may bear, it might well contain logical contradictions of which no one is aware."
+
+109:  "Epistemologically it is assumed here that the question 'what counts as contradiction?' can be answered by reference to the same criteria everywhere, namely those of formal logic."
+
+111:  "Undoubtedly there are methodological problems involved in the cross-cultural identification of Systemic properties like contradiction; the question is whether these are manageable or intractable."
 
 
 Chapter 6: Contradictions and Complementarities in the Cultural System
