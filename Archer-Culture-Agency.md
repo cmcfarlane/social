@@ -366,8 +366,90 @@ LOW (SC)     Contingent       Competitive    Morphogenesis
 Chapter 8: Elaboration of the Cultural System
 ---
 
+229:  Substantive differences of competitive contradictions: in comparison to the constraining contradiction, "the competitive contradiction is not a matter of Systemic *constraint* for the new item is not dependent on the old. Here, to advocate this A is no sense invokes some B. [...] Insteaad this kind of contradiction is only activated if someone else insists on counterposing B and goes on doing so--thus enforcing debate between the two groups. In short, competitive contradictions, though systemic in substance, require Socio-Cultural activation. However, active opposition is a matter of Socio-Cultural contingency and not of Systemic inescapability."
+
+229:  "The existence of opposing groups is an essential precondition of a competitive contradiction."
+
+230:  "the *accentuation* of an 'independent' contradiction is a supremely social matter. Accentuation depends on groups, actuated by interests, *making* a contradiction competitive, by taking sides over it and by trying to make other people take their side. In short, these oppositional interest groups *cause* the contradiction to impinge on broader sections of the (relevant) population: it does not impose itself as the ineluctable force of ideas as is the case with constraining contradictions, the moment anyone asserts A."
+
+231:  "The activation of competitive contradictions is then the direct responsibility of human agency, though this does not render the incompatibility itself one whit less Systemic. In other words, we are discussing the relationship between the S-C level and CS properties (causal effects upon the logical domain), as distinct from all the things over which social groups can disagree, conflict or struggle, many of which contain no logical contradiction whatsoever."
+
+235:  "Ideologies are, then, genuine cases of competitive contradictions and in consequence have logical properties at the CS level which usually are either misrepresented (downwards conflationists) or neglected (upwards conflationists)."
+
+235:  Substantive differences of contingent complementarities: "The basic difference between the contingent and the concomitant complementarity is that here A and B are indeed consistent but they are also independent. There is no sense in which the invocation of A also entails the concomitant evocation of B."
+
+236:  "Like their counterparts, competitive contradictions, the *accentuation* of these complementarities is entirely dependent on action at the Socio-Cultural level. Usually, since A and B are unconnected, they will have independent origins being developed separately by different groups pursuing their particularistic interests--possibly generations or oceans apart. But the originators are not necessarily the key actors."
+
+237:  "the complementarity of the items is a CS matter but the contingency of their conjunction is an S-C affair."
+
+237:  "The two interactional factors crucial for determining which of these items became joined up and then underwent elaboration are, first, social or sectional salience for the two items sustained by different social groups and, second, certain opportunists, possibly from a third group, who perceive some advantage to be derived from exploration of the complementarity. Of the two conditions, it is the second which is decisive, for even if some contact mechanism performs the introduction between A and B, unless the connection is exploited by someone, the two items slip back into the systemic repository to become indistinguishable from the pool of other undetected but potential complementarities."
+
+239:  Operative effects of competitive contradictions: "the situational logic created by the competitive contradiction is one which confronts people with *choice*. To be more precise, it is a logic which forces them to make choices, by accentuating differences, by insisting on their salience, by undermining indifference and by making the *question* of alignment inescapable."
+
+240:  "the logical source of their opposition further conditions their course of action. In contradistinction to the constraining contradiction, here the situational logic dictates *elimination* not *correction*."
+
+242:  Operative effects of contingent complementarities: "For the existence of these (socially known) compatibilities represents a source of novelty which the Cultural System extends to human agency with few strings attached. These condition action precisely because they *objectively increase the opportunity for cultural free play*--for novel combinations and applications involving conceptual integration, theoretical reduction or doctrinal extension, all of which have ideational synthesis as their common denominator."
+
+243:  "Only the contingent complementarity simultaneously holds out choices to the adherents of A but leaves them free to make what they will (if anything) of B. It is not merely that the objective availability of different courses of action is greater; so is the freedom to determine what to do with these opportunities."
+
+243:  "there are no containment strategies or exposure policies associated with the contingent compatibility. [...] Only the contingent compatibility is free from Socio-Cultural manipulation, designed to induce avoidance or adoption or aversion."
+
+244:  "the situational logic of the contingent complementarity provides no directional guidance about what is to be done with B"
+
+245:  Divergent results of competitive contradictions: "Pluralism is the generic consequence of competitive contradictions"
+
+245-6:  Because elimination of the opponent is the goal, the result of the competitive contradiction is debate as opposed to dialogue. Hence, emphasis on identification of antitheses, mutual clarification of views.
+
+246:  "Hence the primary feature of ideational competition is the differentiation of viewpoints from one another (through barbed interchange), and it stands in stark contrast to the efforts at effecting union between them (through mutual exchange), which are promoted by corrective contradictions."
+
+246:  "Competition is quintessentially a morphogenetic process, that is it amplifies deviations from the original starting point, namely the positions from which the rivals first crossed swords."
+
+256:  "The basic thrust is thus the precise antithesis of ideational unification promoted by the constraining contradiction: it is the accentuation of ideational differences in the population. Since it is *differences alone* which are increasingly distributed throughout the population (actors are presented with choice and pressured to align themselves), then the Systemic impetus is towards *social cleavage*. This is reinforced by the fact that the rivals themselves manifest their mutual hatred of compromise formulae and direct their conjoint forces to undermining any credibility or legitimacy of 'centrist' views. In brief, the debate between them fosters *polarization* among the relevant population."
+
+258:  Divergent results of contingent complementarities: "the central argument that synthesis is the generic consequence of contingent complementarities refers strictly to the work performed on two consistent elements (to what our opportunists do when they take up a compatible item) and the results of these endeavours which they can then offer back to the Cultural System. How these are 'received', that is whether synthesis can itself be synthesized, is simultaneously a more macroscopic and a more substantive question."
+
+259:  "Synthesis itself takes the form of a combination of ideas transferred from one or more domains to another. In certain instances the transfer is more pronounced, in others the fusion is most prominent, but it would always be a mistake to neglect either element in the synthetic process."
+
+267:  "Variety feeds on what looks promising but is ill-defined; density deals with what feel like certainties yet are already over-defined. Variety pushes on to extend horizons haphazardly and unpredictably; density stays at home to embellish the local environments systematically."
+
+[pandoc markdown table]
+
+: Cultural System--Types of logical relations
+
+-------------- ------------------- --------------   ---------------------- ----------------
+               **CONTRADICTIONS**                   **COMPLEMENTARITIES**                 
+                                                                                          
+               *Constraining*      *Competitive*    *Concomitant*          *Contingent*   
+                                                                                         
+*Situational*  Correction          Elimination      Protection             Opportunity   
+*Logic*                                                                                  
+                                                                                         
+*CS Level*     Syncretism          Pluralism        Systematization        Specialization
+                                                                           
+*S-C Level*    Unification         Cleavage         Reproduction           Sectionalism
+------------------------------------------------------------------------------------------
+
+[pandoc markdown table]
+
 Chapter 9: Towards a Theoretical Unification: structure, culture and morphogenesis
 ---
 
+277:  "we can never arrive at knowledge of a Cultural System through personal introspection or participant observation. A lifetime of fieldwork could only yield up partial knowledge--at best an inventory of those components and their relations which are within the cognizance of the collectivity. A simple way of putting this is that Cultural Systems really pertain to libraries rather than to people."
+
+282:  "the relative autonomy of culture will be upheld, as will that of structure"
+
+282:  "their conceptual unification then paves the way for uniting structural and cultural analysis."
+
+282:  "When both structure and culture are conceptualized from the morphogenetic perspective then *the two intersect in the middle element of the basic cycle*. In other words, the interactional phase, whether we are dealing with S-C interaction or that taking place between structured material interest groups, always entails a great deal of interpenetration between the two--this entailment being a matter of *sociological* necessity*."
+
+283:  "most of the time it is empirically the case that we have to recognize that there is structural penetration of the cultural realm, and thus need to theorize about the intersection of the structural and cultural fields, for the simple sociological reason that actors themselves do have positions in both domains simultaneously."
+
+284:  "The answers to these 'how' questions home in on the mechanisms through which (1) culture influences structure and (2) structure exerts its influence upon culture."
+
+284:  "The basic mechanism by which cultural factors find their way into the structural field through the intersection is extremely simple. Let any material interest group (call some groups 'dominant' by all means if their societal or sectional dominance can be demonstrated empirically) endorse any doctrine (theory, belief or ideology) for the advancement of those interests (that is their articulation, assertion, or legitimation), and that group is immediately plunged into its situational logic."
+
+286:  "Structural factors find their way into the cultural field by following the same path through the intersection, only here we have to look at what happens at the other end of it. Thus, let the advocacy of any doctrine (theory, belief or ideology) become associated with a particular material interest group and its fate becomes embroiled in the fortunes of that group *vis-a-vis* others. For all such attachments immediately enmesh cultural discourse in power play."
+
 Chapter 10: 'Social Integration and Systems Integration'
 ---
+
