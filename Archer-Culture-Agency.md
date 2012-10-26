@@ -349,6 +349,8 @@ Chapter 7: Socio-Cultural Interaction
 
 219-20:  "Fundamentally a contingent complementarity is detected (on the derived scenario) because somebody has gone out of their way to look for one and with some idea of what they were looking for. Quite literally they were searching for a 'foreign' complement to a 'domestic' item."
 
+[pandoc markdown table]
+
 -----------  ---------------  -------------  --------------
              HIGH (CS)        LOW (CS)                    
                                                           
@@ -358,6 +360,8 @@ HIGH (SC)    Concomitant      Constraining   Morphostasis
 LOW (SC)     Contingent       Competitive    Morphogenesis
              complementarity  contradiction               
 -----------------------------------------------------------
+
+[pandoc markdown table]
 
 Chapter 8: Elaboration of the Cultural System
 ---
