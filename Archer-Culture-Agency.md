@@ -453,3 +453,4 @@ Chapter 9: Towards a Theoretical Unification: structure, culture and morphogenes
 Chapter 10: 'Social Integration and Systems Integration'
 ---
 
+Primarily a criticism of and differentiation from Habermas, especially *Theory of Communicative Action*.
