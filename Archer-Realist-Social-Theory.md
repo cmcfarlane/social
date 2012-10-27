@@ -248,15 +248,45 @@ Chapter 4: Elision and Central Conflation
 
 3. "one of the most obvious difficulties in these re-definitional manoeuvres is that the very 'rules and resources' which are drawn upon to generate social practices could therefore be held to be something other than (i.e., autonomous, external, anterior to) social practices. Here, the defence consists in placing 'rules and resources' outside time and space and endowing them with only a 'virtual existence' until or unless 'instantiated' by agents in the course of social praxis."
 
+117:  "the terms 'agent', 'actor' and 'person' are used interchangeably within structuration theory."
 
+117-8:  "What is questioned first are the basic Elisionist equations; agency=action, action=an ability to do otherwise, and therefore, agents=those who could have done otherwise. This I maintain produces the 'over active agent' and the crucial remainder which is omitted is agents' capacity 'to make a difference' *simply through their existence as members of collectivities with particular properties*, which no amount of activity on their part can make other than that they are at any given time."
 
+119:  "What I have in mind here are collectivities whose very *presence* has an effect on its own right. It is their 'being' rather than their 'doing' which is efficacious, since it is consequential either for society as a whole of for some social organization. Thus if there are simply too many or too few in a given place or time (to feed or to fight) their very *presence* creates exigencies for decision-makers and makes a real difference to what policies can be enacted. *Their being there* constitutes part, the human part, of the *environment* which those actors who can do otherwise have to confront and in confronting it they are constrained in what they actually can do."
 
+132:  "structure cannot be rendered in terms of 'social practices', without any remainder, save their material element. [...] agents cannot be construed in terms of 'social practices' without remainder, save their biological element."
+
+133:  "an approach based upon analytical dualism, where structure and agency are interrelated but not viewed as mutually constitutive since each possesses emergent properties particular to that level."
 
 Chapter 5: Realism and Morphogenesis
 -
 
+135:  "Social theory has to be useful and usable: it is not an end in itself."
+
+135:  "there is a glaring absence of bold social theories which uncompromisingly make 'emergence' their central tenet."
+
+Are there any non-bold social theories which compromisingly make emergence their central tenet?
+
+136:  "Forewarned that the signposts reading 'reductionism' and 'reification' are roads to hell paved with bad conceptualizations, no doubt central conflation promises ontological security to more and more theorists. Yet theirs is a very pharisaical self-satisfaction. They expect thanks for not being guilty of grasping at atomism, or unjustly privileging society or the individual, or of whoring with social facts. They congratulate themselves on their theoretical abstemiousness in dieting only on areductionism and on the tithes of hard syncretic endeavour it has taken to consolidate their position. Then they compare themselves favourably with those of us who freely confess that theory is in a mess, that we can point to few worthwhile offerings--but believe the only thing to do is to admit it, confront it, and hope to do something about it."
+
+TMSA Transformational Model of Social Action (Bhaskar)
+
+M/M morphogenetic/morphostatic approach (Archer)
+
+141:  "The peculiarity of all things social is that they are activity dependent. Without human activity nothing in society could have its genesis, continuation, or undergo change. On this we can all agree: unlike nature, social reality is not self-subsistent."
+
+148:  "It is affirmed that social structures are only efficacious through the activities of human beings, but in the only acceptable manner, by allowing that these are the effects of *past actions*, often by long dead people, which survive them (and this temporal escape is precisely what makes them *sui generis*). Thus they continue to exert their effects upon subsequent actors and their activities, as autonomous possessors of causal powers. How they carry over and how they exert their effects is just what the M/M approach attempts to theorize."
+
+151:  "realism itself is *predicated* upon analytical dualism."
+
+157:  Basic theorems of M/M model "which constitute analytical dualism are (i) the structure necessarily pre-dates the action(s) which transform it [...] and; (ii) and that structural elaboration necessarily post-dates those actions which have transformed it"
+
+159:  "realism itself is committed to an explanatory framework which acknowledges and incorporates (a) *pre-existent structures* as generative mechanisms, (b) their *interplay* with other objects possessing causal powers and liabilities proper to them in what is a stratified social world, and (c) non-predictable but none the less explicable *outcomes* arising from interactions between the above, which take place in the open system that is society."
+
 Chapter 6: Analytical Dualism: The Basis of the Morphogenetic Approach
 -
+
+
 
 Chapter 7: Structural and Cultural Conditioning
 -
