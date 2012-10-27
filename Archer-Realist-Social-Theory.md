@@ -286,7 +286,73 @@ M/M morphogenetic/morphostatic approach (Archer)
 Chapter 6: Analytical Dualism: The Basis of the Morphogenetic Approach
 -
 
+165:  "Society is that which nobody wnts, in the form in which they encounter it, for it is an unintended consequence."
 
+165:  "in asserting that society is never exactly what anyone wants, in emphasizing this as the underlying motor of change, in stressing that the social origins of particular transformations lie in structured struggles, in underlining that resulting social forms are generated and elaborated from this parallelogram of pressures, it is also acknowledged that social *structuring*, as a process which is continuously activity-dependent is also one which is uncontrolled, non-teleological, non-homeostatic, non-adaptive and therefore unpredictable."
+
+166:  "Hence the use of the term 'morphogenesis' to describe the process of social structuring; 'morpho' indicating shape, and 'genesis' signalling that the shaping is the product of social relations. Thus 'Morphogenesis' refers to 'those processes which tend to elaborate or change a system's given form, state or structure'. Conversely, 'morphostasis' refers to those processes in complex system-environmental exchanges which tend to preserve or maintain a system's given form, organisation or state."
+
+166:  "Only on the metaphysical assumption that some relations are necessary and at least relatively enduring can we reasonably set out to practise science or to study society. Transcendentally, the world has to be ordered for science to have any success as a practice and its cumulative successes (not construed as undeviating linear progress) furnish increasing warrants for this metaphysical assertion."
+
+167:  "The morphogenetic approach begins the other way around, that is with the essential transcendental commitment to society not being wholly contingent, but with no substantive pre-conceptions that its ordering resembles any other form of reality (mechanical or organic), nor that the whole is homologous with some part of it (language), or some state of it (simple cybernetic systems). Society is only like itself and the basic task is to conceptualize how ordered social forms have their genesis in human agency, just as social beings have their genesis in social forms."
+
+167:  "Since the existence of effects cannot serve to explain origins (a prime error of functionalism) then the task of social theory cannot be restricted to the mere identification of social structures as emergent properties, it must also supply an analytical history of their emergence which accounts for why matters are so and not otherwise."
+
+168-9: Four basic propositions:
+
+1. "there are internal and necessary relations within and between social structures (SS)"
+2. "causal influences are exerted by social structure(s) (SS) on social interaction (SI)"
+3. "there are causal relationships between groups and individuals at the level of social interaction (SI)"
+4. "social interaction (SI) elaborates upon the composition of social structure(s) (SS) by modifying current internal and necessary structural relationships and introducing new ones where morphogenesis is concerned. Alternatively, social interaction (SI) reproduces existing internal and necessary structural relations when morphostasis applies."
+
+169: Compare with argument of *Culture and Agency*:
+
+1. "there are internal and necessary logical relationships between components of the Cultural System (CS)"
+2. "causal influences are exerted by the Cultural System (CS) on Socio-Cultural interaction (the S-C level)"
+3. "there are causal relationships between groups and individuals at the Socio-Cultural (S-C) level" 
+4. "there is elaboration of the Cultural System (CS) due to Socio-Cultural Interaction (S-C) modifying current logical relationships and introducing new ones, where morphogenesis is concerned. Alternatively Socio-Cultural Interaction (S-C) reproduces existing internal and necessary cultural relations when morphostatis applies."
+
+172:  "Any emergent property is held to be something quite different from an overt and relatively enduring patterning in social life."
+
+173:  "Fundamentally, what distinguishes an 'emergent property' is its real homogeneity, namely that the relations between its components are internal and necessary ones rather than seemingly regular concatenations of heterogeneous features--of unknown provenance, undetermined internal influence and uncertain duration. In contradistinction, the primary distinguishing feature of any emergent property is the natural necessity of its internal relations, for what the entity is and its very existence depends on them. To focus upon internal and necessary relations between components as constitutive of an emergent property is to set them apart from relations which are external and contingent. In the latter case, two entities or items can exist without one another and it is thus neither necessary nor impossible that they stand in any particular relation to one another, for the nature of either does not depend on this."
+
+174:  "Natural necessity only states that X cannot be what it is without certain constituents A, B, C, N' and the relations between them. But what is it about X which leads us to attach the concept of 'emergence' to it rather than simply viewing X as the name given to the particular combination or permutation of A, B, C, N'? The crucial distinguishing property is that X itself, and itself being a relational property, has the generative capacity to modify the powers of its constituents in fundamental ways and to exercise causal influences *sui generis*. This is the litmus test which differentiates between emergence on the one hand and aggregation and combination on the other."
+
+175:  "In society there are a variety of emergent properties--structural, cultural and agential, each of which is irreducible to the others, has relative autonomy, and is also relatively enduring."
+
+175:  "What differentiates a *structural* emergent property is its *primary dependence upon material resources*, both physical and human. In other words, the internal and necessary relations between its constituents are fundamentally material ones: those make it what it is and without them it could neither exist as such nor possess the causal powers which characterize it."
+
+177:  "we do not identify structures by interviewing people about them"
+
+177:  "*structural* emergent properties (SEPs), irreducible to people and relatively enduring, as with all incidences of emergence, are specifically defined as those internal and necessary relationships which entail material resources, whether physical or human, and which generate causal powers proper to the relation itself."
+
+177:  "Equally, emergent properties (of which SEPs are but one type) are distinguished from aggregate consequences, for however important the effects of the latter may be, they can always be disaggregated into the sum of individual actions, that is they are reducible."
+
+184:  "the fact that agency itself is the bearer of emergent powers. Thus, on the one hand, *any form of socio-cultural conditioning only exerts its effects on people and is only efficacious through people*. [...] On the other hand, agential relations themselves represent emergent powers (PEPs or people's emergent properties) with their two defining features--that is they modify the capacities of component members (affecting their consciousness and commitments, affinities and animosities) and exert causal powers proper to their relations themselves *vis-a-vis* other agents or their groupings (such as association, organization, opposition and articulation of interests)."
+
+184:  "When we differentiate between the 'parts' (SEPs plus CEPs) and the 'people' in order to examine their interplay, this is *not* therefore a matter of investigating the impact of structural and cultural emergents upon an undifferentiated and unstratified environment whose constituents happens to be people. Instead, it is a question of the confluence between two sets of emergent powers--those of the 'parts' and those of the 'people' (PEPs)."
+
+[begin pandoc table]
+
+: Analytical dualism in social theory
+
+------------------- ----- ----------- ----- --------------------
+SYSTEM INTEGRATION                          SOCIAL INTEGRATION
+                          
+Systemic            ->    interplay   ->    Populations
+
+Institutional       ->    interplay   ->    Organised groups
+                                            (corporate agency)
+
+Roles               ->    interplay   ->    Individual actors
+
+Positions           ->    interplay   ->    Collectivities
+                                            (primary agency)
+---------------------------------------------------------------
+
+[end pandoc table]
+
+190:  "we are *always* dealing with the doubel *morphogenesis/statis*--of structure and of agency as part and parcel of the self-same process."
 
 Chapter 7: Structural and Cultural Conditioning
 -
