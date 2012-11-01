@@ -357,6 +357,44 @@ Positions           ->    interplay   ->    Collectivities
 Chapter 7: Structural and Cultural Conditioning
 -
 
+195:  Citing Bhaskar, *The Possibility of Naturalism*, 25-6: "The Realist is committed to maintaining that the 'causal powers of social forms is mediated through social agency'." This protects against reification and "endorses the view that agents are the only efficient causes in social life." "both material and ideational emergent properties (SEPs and CEPs) exist and are the bearers of causal powers."
+
+195:  Result is that there are two kinds of causal powers (EPs=parts and people=agents). But only people=agents possess "efficient causality." Why is this the case? How can EPs be influential at all?
+
+195:  "Structural and cultural condition it will be maintained are quintessentially matters of mediation, *and the first phase of the morphogenetic cycle is therefore concerned with mediatory processes*."
+
+195:  "THe one factor which guarantees that social systems remain open (and even precludes thought experiments about closure), is that they are necessarily peopled."
+
+195-6:  "People, in turn, are capable of resisting, repudiating, suspending or circumventing structural and cultural tendencies, in ways which are unpredictable because of their creative powers as human beings. In other words, the exercise of socio-cultural powers is dependent *inter alia* upon their reception and realization by people: their effect is not direct but mediated, for there are no other ways in which it could be exercised without invoking impersonal social forces. What adds to the complexity is that it is equally the case that the exercise of agential powers (whether of individuals or groups) can be suspended, modified, re-directed etc. by the social forms in which they are developed and deployed. There is no need to deny these influences or to minimize their effects, for however profound these are they still work through people who remain the efficient cause of their actualization. The difference then between the two kinds of entities and their respective powers is not one of relative influence but of mode of operation, where the effects of the 'parts' are necessarily mediated, whilst the agents stand as mediators."
+
+196:  "Invariably, from the morphogenetic perspective, *all* structural influences (i.e. the generative powers of SEPs and CEPs) *are mediated to people by shaping the situations in which they find themselves*."
+
+196:  "how mediation takes place and will characterize this as an *objective influence which conditions action patterns and supplies agents with strategic directional guidance*."
+
+196:  "emergent structures represent objective limitations upon the situations and settings which agents can encounter."
+
+197:  "Objectively, it delimits that which *can* be reproduced, re-formulated, rejected or transformed."
+
+198:  "it is only be respecting the powers of people (i.e. not treating them as 'indeterminate material') that the powers of the 'parts' can exert a conditioning influence in a non-reified manner. One of the most important differentiating powers proper to people is their intentionality--their capacity to entertain projects and design strategies to accomplish them (which may or may not be successful). Here, the term 'project' stands for any goal countenanced by a social agent, from the satisfaction of biologically grounded needs to the utopian reconstruction of society."
+
+199:  "A non-reified account of structural and cultural conditioning thus *requires* an active agent in order to mediate the process."
+
+200:  "structures (SEPs and CEPs) fundamentally exert their effects in relation to and actually through the projects entertained by agents."
+
+200:  "the powers of people mean the projects they are capable of conceiving can imaginatively outstrip the social possibilities of their times."
+
+201-3:  people are subject to "involuntaristic placement" in situations.
+
+203-5:  people in situations, by virtue of involuntaristic placement, are subject to "vested interests" in those situations; most obviously, but not exclusively, in terms of maintenance or change. These are just as unavoidable as the involuntaristic placement in a situation.
+
+204:  "vested interests are concerned with relative advantages rather than absolute well-being."
+
+205-8:  this leads to "opportunity costs." 
+
+206:  "There are two major ways in which opportunity costs exert their influence; firstly on the attainment of the same given project and secondly upon which projects can be entertained. The former works through allocating different costs for the *same course of action* to those who are differently situated."
+
+
+
 Chapter 8: The Morphogenesis of Agency
 -
 
