@@ -59,6 +59,16 @@ Note: this particular hypothesis maps on to Archer's discussion in *Realist Soci
 Chapter Two: Theoretical Logic in Sociological Thought (1): The Failure of Contemporary Debate to Achieve Generality
 ---
 
+36:  "only those thinkers who have thoroughly and explicitly broken from the positivist persuasion will even attempt an exercise in general theoretical logic."
+
+37:  General presuppositions in theoretical logic "must be truly 'generalized,' principles so broad in scope that they cannot be subsumed by any more empirically-oriented level of the scientific continuum."
+
+37:  "General presuppositions must, also, be truly 'decisive'' they must have significant repurcussions at every more specific level of sociological analysis."
+
+37:  "Although the basic principles of differentiation and autonomy that govern each level of scientific thought ensure that theorists who agree at any level can, and usually will, disagree at other levels, the criteria of generality and decisiveness guarantee that insofar as presuppositional commitments are shared, certain clear and significant similarities will exist between arguments which may in every other repsect radically diverge."
+
+
+
 Chapter Three: Theoretical Logic in Sociological Thought (2): Toward the Restoration of Generality
 ---
 
