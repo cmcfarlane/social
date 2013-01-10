@@ -1,4 +1,4 @@
-Powell, Christopher. "How Epistemology Matters: Five Reflexive Critiques of Public Sociology." *Critical Sociology* 39 (2012): 87-104.
+Powell, Christopher. "How Epistemology Matters: Five Reflexive Critiques of Public Sociology." *Critical Sociology* 39 (2013): 87-104.
 ===
 
 88:  "If theory provides intellectual frameworks for establishing and evaluating factual claims and relating them to one another, epistemology provides frameworks for constructing, evaluating, and organizing theoretical claims."
