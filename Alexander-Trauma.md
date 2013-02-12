@@ -1,4 +1,4 @@
-Alexander, Jeffrey C. "Toward a Theory of Cultural Trauma." In *Cultural Trauma and Collective Identity, edited by Jeffrey C. Alexander et al, 1-30. University of California Press, 2004.
+Alexander, Jeffrey C. "Toward a Theory of Cultural Trauma." In *Cultural Trauma and Collective Identity*, edited by Jeffrey C. Alexander et al, 1-30. University of California Press, 2004.
 ===
 
 1:  "Cultural trauma occurs when members of a collectivity feel they have been subjected to a horrendous event that leaves indelible marks upon their group consciousness, marking the memories forever and changing their future identity in fundamental and irrevocable ways."
