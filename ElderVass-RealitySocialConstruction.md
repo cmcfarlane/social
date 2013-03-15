@@ -89,7 +89,7 @@ Chapter is a summary of arguments more fully developed in *The Causal Powers of 
 
 25:  "there really is a determinate set of people who would tend to endorse and/or enforce this norm. We may call this the *actual norm circle* for the norm concerned. […] there will only be one actual norm circle for each norm, which includes all the (probably overlapping) proximal norm circles of all those individuals who hold the norm."
 
-	Thus, three levels of the concept of norm circle: proximate, imagined, and actual.
+> Thus, three levels of the concept of norm circle: proximate, imagined, and actual.
 	
 26:  "a norm circle is an entity with the emergent causal power to increase the disposition of individuals to conform to the norm endorsed and enforced by the norm circle concerned."
 
