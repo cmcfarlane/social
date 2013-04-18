@@ -19,3 +19,27 @@ Emirbayer, Mustafa. "Manifesto for a Relational Sociology," *American Journal of
 
 289:  "What is distinct about the transactional approach is that it sees relations between terms or units ars preeminently dynamic in nature, as unfolding, ongoing processes rather than as static ties among inert substances."
 
+291-4:  Sketches concepts of power, equality, liberty and agency in transactional/relational terms.
+
+294-7:  Outlines macro-meso-micro in transactional/relational terms.
+
+298:  "three transpersonal, relational contexts in which all social action unfolds: social structure, culture, and social psychology."
+
+299:  "social networks *cut across* discrete communities and other entities---are 'interstitial'---even though in certain cases tehy may also congeal into bounded groups and clusters"
+
+303:  "The problem of *boundary specification*, of moving from flows of transactions to clearly demarcated units of study, from continuity to discontinuity, is perhaps the most frequently encountered of all challenges to relational analysis."
+
+303-4:  Two possible solutions: nominal and real. Nominal takes position of outsider (researcher) while real takes position of insider (participant). 
+
+304:  "Behind the analytical and methodological difficulties in setting boundaries, moreover, stand fundamental questions of an ontological nature. Once one defines the boundaries around a given matrix of transactions, how does one characterize what obtains *inside* those boundaries? When, if ever, does a set of relations actually count as a 'thing,' a substance, or an entity?"
+
+305:  *network dynamics*---"Paradoxically (for a mode of study so intently focused upon processuality), relational sociology has the greatest difficulty in analyzing, not the structural features of static networks, whether these be cultural, social structural, or social psychological, but rather, the dynamic processes that *transform* those matrices of transactions in some fashion."
+
+307:  *causality*---"How are network dynamics to be accounted for? How are shifts in the content and direction of transactional flows to be explained? One persistent problem, yet another outgrowth of substantialist ways of reasoning, is the tendency even of many relational thinkers to depict causes as immaterial phenomena. Entities such as 'forces,' 'factors,' and 'structures' are said to 'impel' social substances, including persons and groups, down the causal path. Even figurations or patterns of relations (including structural holes) become substantives that putatively 'move' action along in some fashion. Can causality be conceptualized in a more satisfactory way?"
+
+308:  "the *normative implications* of relational inquiry come into question when one considers what sorts of moral or practical leverage such inquiry might provide in respect to social realities."
+
+310n46:  "One of the most serious shortcomings of relational sociology to date is its relative neglect of normative concerns, despite the profound interpenetration (in true transactionalist fashion) of all questions of 'is' and 'ought' in social-scientific analysis."
+
+311-2:  Three tasks relational theorists must follow up on: "to explore ever more aggressively the analytical levels of culture and collective emotions," "to maintain theoretical consistency *across* levels of analysis, not only in their more case-specific explanations, but also, and especially, in their general efforts at theory-building," and "transactional thinkers must begin to systematize some of the alternative ways in which central issues and problems have been thematized from within their own tradition."
+
