@@ -106,7 +106,7 @@ Chapter is a summary of arguments more fully developed in *The Causal Powers of 
 Chapter 3: Culture and Rules
 ---
 
-
+37:  cultural realism: "culture and rules *as such* exist in some sense independently of people (at least once they've been created)."
 
 Chapter 4: Institutional Reality
 ---
