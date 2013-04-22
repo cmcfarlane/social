@@ -13,7 +13,7 @@ Healy, Kieran. "Conceptualising Constraint: Mouzelis, Archer and the Concept of 
 
 516-7:  "To say that *A* supervenes on *B* is to say that there can be no differences in *A* without there being differences in *B*. This implies that when cases agree in subvening respects they agree in supervening respects."
 
-	Discussing Kim, J. "Concepts of Supervenience." *Philosophy and Phenomenological Research* 45 (1984): 153--76. Kim, J. "Supervenience as a Philosophical Concept." *Metaphilosophy* 21 (1990): 1--27.
+    Discussing Kim, J. "Concepts of Supervenience." *Philosophy and Phenomenological Research* 45 (1984): 153--76. Kim, J. "Supervenience as a Philosophical Concept." *Metaphilosophy* 21 (1990): 1--27.
 	
 518:  "Archer's attempt to get past the truism of 'no people, no society' by saying that 'people' includes dead people will not do."
 
