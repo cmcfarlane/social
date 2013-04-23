@@ -28,3 +28,25 @@ King, Anthony. "Against Structure: A Critique of Morphogenetic Social Theory." *
 211:  "Archer's own model presupposes an interpretivist ontology which insists that social conditions are only other people."
 
 211:  "Relational emergent properties refer to social phenomena in which individuals through interacting in new ways produce a novel social context which now confronts them and is independent of any one of them."
+
+213:  "the interpretive tradition is not reducing the social situation to *the* individual (in the singular) but only recognising that social situations are collaborations which cannot be understood except in terms of everyone---all the people---involved in them. Arguing for the irreducibility and emergence of the social situation threatens to reify the new relations between individuals into something that is more than all of them."
+
+> "Threatens," maybe, but it is not established that it does (necessarily) or that Archer's argument does this.
+
+213:  "She misses the fact that reality is social and that its very defining defining feature is its collaborative and mutual nature where collaboration between people, although having special properties irreducible to any one individual, is very precisely only the relations between individuals. Social conditions are thus independent of any individual, as an individual, but they are not more than all the individuals considered together in their social relations."
+
+> Seems to argue, in effect, "No, not emergence, but emergence!"
+
+214:  "In neither the case of numerical nor relational emergence can the morphogenetic approach prevent the micro-reduction of structure to other people."
+
+215:  "The role of bank-manager exists before the individual who fills it but only insofar as individuals in the past and in the present recognise that role and have a certain set of understandings and expectations about what an individual given that role is to do."
+
+220:  "The social context is interaction between individuals, one of the products of which is the individual subject."
+
+221:  "although it is true that 'I' as an individual can do practically nothing and that material conditions seem glacial to me, it is not true that these conditions are independent of everybody and that everybody can do nothing."
+
+222:  society "could be transformed if everyone or vast numbers of individuals began to interpret their social relations differently and, therefore, began to engage in new social practices."
+
+223:  "We are constrained by other people (most of whom we do not and will never know) not by structure but that does not make that constraint any less real."
+
+223:  "practically, a heuristic concept of structure can be usefully maintained."
