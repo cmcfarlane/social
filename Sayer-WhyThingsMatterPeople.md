@@ -103,6 +103,48 @@ Citing N. Arpaly. *Unprincipled Virtue: An Inquiry Into Moral Agency*. Oxford UP
 Chapter 4: Beings for Whom Things Matter
 ---
 
+100:  "many assume that to discuss human nature is to reduce the human to the biological."
+
+101:  "Our cultural being is an emergent property of our biological being, presupposing certain biological conditions, such as the cerebral cortex. The fact that only species with certain biological characteristics can develop cultures shows that, far from contradicting the idea of human nature, cultural variation presupposes it; we must be the kind of beings that are capable of cultural variation."
+
+103:  "The natural is not immutable. Certain realist philosophers now argue that objects, including people, have causal powers, many of which can lie unactivated, and which, if activated, have effects which depend on contingently related conditions. The causal powers themselves depend on the presence of certain structures, be they mental or physical, whose existence is itself contingent. The material world is therefore characterized in terms of both necessity and contingency, thus rendering our interventions in the world intelligible."
+
+108-39: outlines conception of human nature in eleven points:
+
+1. variation is normal
+2. human animals and embodiment
+3. human becoming and care
+4. neediness, vulnerability, capability, and concern
+5. reasoning beings
+6. fellow-feeling
+7. relationality and the self: beyond egoism and altruism
+8. attachments and commitments
+9. autonomy and heteronomy
+10. virtues, vices, evil and social context
+11. well-being: objective and plural, but not relative
+
+108:  "Like any class of objects, human nature always encompasses variation, as well as commonalities."
+
+108:  "*the category 'unnatural' is empty*."
+
+108-9:  "Any account of human being must acknowledge not only those qualities which seem to be unique to human beings but those which are not. A claim about the nature of humans is not any less true of them just because it also applies to certain non-human animals."
+
+109:  "We should take the fact that we are animals seriously, rather than denying it, as if those characteristics which were similar to those of other species were somehow unimportant---or worse, as something we should repress or 'rise above' in order to be civilized or ethical. We cannot be rational animals unless we are animals."
+
+109-10:  "Human nature is different from the nature of, say, a mineral, because it consists not only of structures and powers, but structures and powers some of which depend on contingent forms of interaction for their very emergence, development and exercise. That is, it includes not only innate powers, but potentials for contingently developing further emergent powers, according to what happens to us."
+
+111:  "Humanity is a condition of shared incompleteness."
+
+111:  "Not only in childhood but for many other parts of our lives, we need the care of others to survive illness, develop and flourish: care is essential for human life."
+
+112:  "As needy beings we can distinguish at least roughly between flourishing and suffering, or more specifically between hunger and sufficiency, disrespect and respect, hostility and friendliness, boredom and stimulation, and so on. Just what constitutes a good life as a whole is surely elusive, but that doesn't prevent us from being able to distinguish better from worse experiences and situations and hence *some* of the elements of a good life."
+
+114:  "Again, these are generalizations, and they seem to apply to some degree to non-human animals (hence the opposition to battery farming and zoos that restrict animals' freedom). Thus, human flourishing consists in more than the absence of suffering---it has extensive positive content."
+
+115:  "The capacity to reason through our use of language is usually seen by western philosophers as the most distinctive feature of human nature, though our moral tendencies do not rely on this capacity alone."
+
+116:  "deliberating over our goals, values and criteria appears to be one of the things that distinguishes humans from other animals."
+
 Chapter 5: Understanding the Ethical Dimension of Life
 ---
 
