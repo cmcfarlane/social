@@ -205,6 +205,16 @@ Chapter 5: Understanding the Ethical Dimension of Life
 Chapter 6: Dignity
 ---
 
+192:  "There is a peculiar tension between dominant uses: firstly, the idea of dignity as something intrinsic to human being (and perhaps certain other animals), and hence which individuals have whatever their situation and behaviour, and regardless of whether others recognize it; and secondly, the idea of dignity as something crucial yet fragile which depends on how people act and how others treat them; indeed, as if it depended on its being recognized. In the former case, dignity is associated with autonomy; in the latter, with relationality. On the other hand it is treated almost as an empirical fact, something people have, and on the other, as an ideal, something they should have; dignity seems to hover ambiguously between these."
+
+193:  Discussing "dignity as an intrinsic quality" notes (fn6), "Equivalent arguments could be made for the dignity of animals."
+
+195:  "To be dignified or have dignity is first to be (capable of being) in control of oneself, competently and appropriately exercising one's powers. Dignity thus appears to be about autonomy, particularly in the sense of 'self-command' and 'self-possession'."
+
+203:  "to treat someone in a dignified way is not to ignore their vulnerability and dependence on others, *but rather to treat them in a way which discreetly acknowledges that vulnerability without taking advantage of it, and to trust them not to use their autonomy in a way which would take advantage of our own vulnerability*. To be able to maintain some autonomy, make claims on others and to be effective *despite* our inevitable vulnerability and dependence on others is a source of dignity. There is therefore both a tension between autonomy and dependence and a complementarity. The very fact that we *need* respect and recognition of our dignity for our psychological well-being shows our dependence on others and how they treat us. It is a contingent, vulnerable property, or it is not dignity at all."
+
+207:  "As regards non-human animals, it may seem merely an anthropocentric conceit to say that they have dignity. But even if it is, thinking about the circumstances in which we attribute dignity to them tells us a lot about our own concepts of dignity in human society. I suggest that we sometimes think of animals as having dignity not only because they can do remarkable things, and in their behaviour and bearing show themselves to be independent of us and have self-command, but because we are aware that they are also vulnerable at the same time. Despite its apparent frailty, the heron survives in the cold and hunts for its food with great efficiency. Things that lack both agency and vulnerability, such as sand, seem to lack dignity."
+
 Chapter 7: Critical Social Science and Its Rationales
 ---
 
