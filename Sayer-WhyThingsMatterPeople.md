@@ -170,37 +170,6 @@ Chapter 4: Beings for Whom Things Matter
 136:  "since human becoming or development is open-ended, it is always possible to discover and create new forms of flourishing, or indeed suffering."
 
 Chapter 5: Understanding the Ethical Dimension of Life
----
-
-144:  "As social beings, we simply cannot live without developing some sense of how actions affect well-being and how we ought to treat one another."
-
-144:  "We need to pay attention here not only to moral actions but moral emotions or sentiments, virtues and vices, and character, relating these to context and well-being or ill-being. There is more to morality than mere 'values' or 'norms'."
-
-145:  "We live between what is and what could or should be; ethical ideas themselves are related both to the kinds of beings we (think we) are and the kind of beings we (think we) should become through our actions."
-
-145:  "People are ethical to the extent that they are concerned about how to act with regard to others' well-being as well as their own, precisely because they know they can easily act in ways that cause harm. Ethical being therefore presupposes awareness of the possibility of unethical being, from petty selfishness through monstrous forms such as genocide."
-
-147:  "Moral sentiments can't be ignored because (a) they matter greatly to individuals, (b) they tell us something about both the individual and her situation, including her well-being (indeed this accounts for a), and (c) they make a difference and are part of the object of study."
-
-148:  "The formation of individuals with ethical responsibilities, dispositions and concerns depends on their socialization, not merely in terms of the learning of rules, but from the experience of living, as sentient social beings---embodied, capable, dependent, and vulnerable---with others in various kinds of social relations. In particular, it depends on the quality of care and the formation of supportive attachments that both protect and nurture the development of responsible autonomy."
-
-153:  "In acknowledging the importance of norms, we need to pay attention not just to the prescribed actions but to their functions, intentions and legitimations, for these are what give them their normative force."
-
-154:  "We learn more by doing than by learning norms: our informal moral education consists mainly of learning from experience of concrete situations and responding to their specifics."
-
-154:  "Rights are social constructions designed to ensure that certain conditions that are deemed necessary for our most basic functioning are universally met; in so far as they have any force it derives from awareness of the seriousness of the harms that result from their infringement."
-
-156:  "We believe child abuse is wrong not merely because it transgresses our norms or conventions, but because we know that it harms children. *This implies a fundamental distinction between the moral and the conventional*."
-
-160:  "The existence of support for animal rights shows that our moral imagination can extend beyond our own species."
-
-162:  "people's judgements of how to act may not only be base on attempts to anticipate the implications for themselves and the person(s) affected by their actions, but to imagine the reactions of observers. This conscious or semi-conscious monitoring and evaluating is crucial both for ethical conduct and the reproduction of social order. People can remember or anticipate the approval or disapproval of others and weigh up whether to respond to it, and those others may make their judgements known in order to influence future conduct."
-
-174:  "while it is important to acknowledge that ordinary people, and not just philosophers, engage in ethical reflection and reason about actions, the extent to which they do so should not be exaggerated. Mostly, people think and act in piecemeal fashion, and only occasionally, if ever, step back and try to work out whether they are being consistent. Thus, inconsistencies in lay ethical thought and action are common: some may deplore murder, yet be in favour of capital punishment. While there are many contradictions in popular ethical beliefs, it is generally only where individuals encounter them personally in particularly vivid form that they try to sort them out."
-
-184:  "A *purely* liberal society, that is one in which all individuals are only contingently and conditionally related to others and can negotiate their relations with one another as equals, *is an impossibility*."
-
-188:  "Any attempts to make societies more ethical have to engage with actually existing ethical being."
 
 Chapter 6: Dignity
 ---
@@ -217,6 +186,24 @@ Chapter 6: Dignity
 
 Chapter 7: Critical Social Science and Its Rationales
 ---
+
+Argues that the mid-eighteenth century (e.g., Scottish Enlightenment and, presumably, Montesquieu, etc) engaged in what could reasonably be considered a critical social science. That is, it was both factual/empirical and critical (both negative and positive). This double-function of social science, especially sociology, was purged in the mid-nineteenth/early-twentieth century. The idea of critical social science in the mid-twentieth century (e.g., Frankfurt) is, in effect, a return to an older conception of social science.
+
+218-9:  "There is still clearly a concern with suffering and oppression evident in the choice of research topics, but in some circles it's now common to see it as the job of CSS merely to 'unsettle' existing academic ideas rather than provide critiques of social practices. As a result critique has sometimes become reduced to little more than scepticism coupled with a concern to be reflexive. Aptly, Barry Barnes (2000, p. 127) refers to 'the ever-so-slightly critical theory of today'."
+
+    Citing Barry Barnes. *Understanding Agency: Social Theory and Responsible Action*. Sage, 2000. 
+
+219:  "At the same time as critique has become more timid, the word has become more widely used and de-valued; indeed with its new use as a verb, it functions merely as a posh synonym for 'criticize'. The use of the prefix 'critical' for particular types and methodologies of social research has become so widespread as to be virtually redundant, providing little more than adjectival aggrandizement. Who would not want to claim that their work was critical, when to refuse it would be to imply that they were 'uncritical'---in effect, naïve and gullible? Just what is left of CSS [critical social theory]? Of what is CSS critical? And how does it justify its critiques?"
+
+223:  "CSS's most basic claim is that social phenomena could be otherwise and can be changed, and hence it counters the common tendency to naturalize them as matters of fate."
+
+226:  "it is not that we should try to escape all determinations, contraints or responsibilities, but that we should have the freedom to choose which ones we have."
+
+227:  "Manifestly superior and feasible successor systems or practices are needed before it becomes rational to remove what we have at present, even if we know that existing arrangements are problematic."
+
+228:  "But for the fact that we are social animals and can suffer or flourish, it is not clear why we would be motivated to deliberate with others."
+
+229:  "after all, what would 'domination', 'oppression', 'abuse', 'racism' and sexism---all familiar terms in social scientific discourse---mean, if they had nothing to do with suffering? Yet this connection between critique and suffering (and by implication, flourishing) is inadequately addressed in CSS's self-understandings that, we have addressed so far, for they do not indicate grounds for such critique. Social scientists who use such terms tend to leave the reasons why their referents might be bad implicit."
 
 Chapter 8: Implications for Social Science
 ---
