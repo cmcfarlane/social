@@ -145,8 +145,40 @@ Chapter 4: Beings for Whom Things Matter
 
 116:  "deliberating over our goals, values and criteria appears to be one of the things that distinguishes humans from other animals."
 
+118:  "Fundamental to the ethical dimension of social life is the capacity for 'fellow-feeling'. At its most basic level it is evident in the tendency for moods to be contagious within groups."
+
+119:  "In short, fellow-feeling is crucial to our social being, though like all these human characteristics, there is some variation in its strength; significantly, those who lack it through autism find interaction with others difficult."
+
+119:  "Taking the foregoing points together enables us to illuminate further our deeply *social* nature. The *relational* character of human being---our dependence on others for our individuality and sense of self---is fundamental […]. There is not first an individual who then contingently enters social relations; relations are *constitutive* of the individual and their sense of self."
+
+124-5:  "As we grow up we can become attached to people, routines or favourite places or objects, and may, in different ways, love some of them. Commitments involve a more conscious and normative relation to things; some mainly evoke a sense of duty, some more a sense of love. They involve cognitive beliefs about the world, including well-being. They usually emerge gradually and partly unintentionally, through continued immersion in relationships and activities, so that they become embodied, and come to involve us. We do not wake up one morning and decide that we are committed to a political party or jazz or a certain person. It takes time and repeated involvement, and learning. It would be absurd for someone to claim that they were a political activist before they had gained any experience of political activity, or a musician before they had acquired some skill in making music."
+
+126:  "Commitments and identity are not playful."
+
+127:  "Social science and philosophy have traditionally emphasized and valued our capacity for autonomy or freedom, but often in a way which fails to understand this in relation to our social being."
+
+128:  "Autonomy should be understood not as complete independence of others but as self-command and capacity for agency within the context of relationships and responsibilities that afford us some support."
+
+131:  "To the extent that moral or immoral behaviour is significantly influenced by social forms, these forms can and should become objects of moral concern."
+
+133:  "Evil might be seen as a kind of deficient response to social being."
+
+134:  "Well-being should therefore be thought of in terms of objective states of being which people strive to discover, achieve or create."
+
+135:  "This objectivist conception of well-being does *not* assume there is only one good way of living; it is compatible with pluralism, but not with relativism. Pluralism in this context is the view that there are many kinds of well-being, but that not just any way of life constitutes well-being. This is different from relativism---the idea that what is good is simply relative to one's point of view, so that if some people think female genital mutilation is good, then it is good for them."
+
+136:  "since human becoming or development is open-ended, it is always possible to discover and create new forms of flourishing, or indeed suffering."
+
 Chapter 5: Understanding the Ethical Dimension of Life
 ---
+
+144:  "As social beings, we simply cannot live without developing some sense of how actions affect well-being and how we ought to treat one another."
+
+144:  "We need to pay attention here not only to moral actions but moral emotions or sentiments, virtues and vices, and character, relating these to context and well-being or ill-being. There is more to morality than mere 'values' or 'norms'."
+
+145:  "We live between what is and what could or should be; ethical ideas themselves are related both to the kinds of beings we (think we) are and the kind of beings we (think we) should become through our actions."
+
+145:  "People are ethical to the extent that they are concerned about how to act with regard to others' well-being as well as their own, precisely because they know they can easily act in ways that cause harm. Ethical being therefore presupposes awareness of the possibility of unethical being, from petty selfishness through monstrous forms such as genocide."
 
 Chapter 6: Dignity
 ---
