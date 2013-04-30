@@ -208,6 +208,15 @@ Argues that the mid-eighteenth century (e.g., Scottish Enlightenment and, presum
 Chapter 8: Implications for Social Science
 ---
 
+247:  "Terms like 'flourishing' and 'well-being' are still sometimes used in everyday life in ways which aren't subverted by the modernist dichotomies; a sick animal may be described as 'failing to flourish'; a city may claim to have 'a flourishing arts scene'. When we say an animal is failing to flourish we often mean that it cannot do the things which animals of that kind are capable of doing or might reasonably be expected to do. Aristotle, who was greatly interested in biology, applied this way of thinking to humans. But the flourishing of a person is more complex than that of a tree or a cat because our development is more open and can take many novel and self-directed forms, but then the association of flourishing with activity, variety, creativity and abundance is precisely the reason for its appeal in describing an arts scene."
+
+250:  "My argument implies a model of social science that embodies medical or therapeutic, dialogical and critical elements."
+
+252:  "As in medicine, the whole point of social science and ethics is or should be the improvement of well-being."
+
 Appendix: Comments on Philosophical Theories of Ethics
 ---
 
+253n1:  "I note also the strange taste in avant-garde social theory for extraordinarily obscure, abstract, pious, portentous and dramatized views of ethical being such as that of Levinas. Ethical life is ordinary, but at the same time far more complex."
+
+257:  "This concept of well-being as objective implies some connection to our capacities and susceptibilities as human beings, or those of other species."
