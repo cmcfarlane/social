@@ -89,6 +89,46 @@ Chapter 3: Cause
 Chapter 4: Social Ontology and Social Structure
 ---
 
+66:  "in so far as it describes something that is causally effective in the social world, the concept of *social structure* refers to *the causal powers of specific social groups*."
+
+66:  "Entities are wholes---to put it crudely, things---composed of other entities, which are their *parts*. […] each entity is a kind of laminated hierarchy of the smaller entities of which it is composed."
+
+66:  "Entities may possess *real causal powers*, which may also be called *emergent properties* of the entity. […] a causal power or emergent property is a capability of an entity to have a certain causal effect on the world in its own right---and effect that is something more than the effects that would be produced by the entity's parts if they were not organised into this sort of whole."
+
+66-7:  "Emergent properties are the product of *causal mechanisms*. Causal mechanisms are processes that depend upon interactions between the parts, interactions that only occur when those parts are organised in the particular *relations* that constitutes them into wholes that possess this emergent property."
+
+67:  "emergentist ontologies can resolve the problem of reductionism: they allow higher-level properties to be explained scientifically (an *explanatory reduction*), but they do not allow them to be replaced with properties of the parts in causal explanations (an *eliminative* or *ontological reduction*)."
+
+67:  "Relational emergence is a synchronic relationship that requires a counterfactual explanation. It describes a particular sort of relation between a whole and its parts at a given moment in time: the relation of being composed by those parts but also possessing properties that the parts would not possess if they were not organised into such a whole."
+
+67:  "The existence of an entity at any given point in time is always contingent; it depends on a causal history in which *morphogenetic* and *morphostatic* causal factors operate. Morphogenetic factors are those that contribute to bringing about the existence of the entity in its current form and  morphostatic factors are those that contribute to sustaining that existence over time."
+
+68:  "*Events*, finally, are caused by interactions between the causal powers of the entities involved. Thus they are not usually determined by a single causal power or a single *law* as in Hempel's nomological-deductive model of causation, but rather they are *multiply determined* or co-determined by a variety of interacting powers, which may be possessed by entities at a variety of levels of the hierarchy of composition."
+
+68:  "To summarise, an emergentist ontology identifies a number of *structural elements* that we would expect to find in any object of scientific enquiry: *entities*, made up of *parts* (which are themselves entities), organised by particular *relations* between the parts and possessing *emergent properties* in virtue of these relations. In order to explain these entities, relations and properties, we need to identify the *mechanisms* by which the parts and relations produce the properties, the *morphogenetic causes* that bring this set of parts into this set of relations in the first place an the *morphostatic causes* that keep them so. And once we are equipped with these elements, we can go on to explain *events*, and sometimes even *regularities* or partial regularities, by showing how the emergent properties or causal powers of the entities concerned interact to co-determine these events."
+
+71:  "For the social sciences, then, the task of determining what type of structural element any given concept might represent is often far from trivial. On the one hand, it can be immensely difficult. The complex inter-relations between human beings, non-human physical objects, social structures and cultural or conceptual systems in the social world make it extremely challenging to disentangle the entities and properties involved, and there are many competing schools of thought on many of these questions. On the other, resolving these questions is fundamental to resolving the ontological confusion in which these disciplines find themselves."
+
+    Note: "human beings, non-human physical objects." Completely jumps over the gap between "human beings" and "things." That is, non-human animals and plants. Admittedly this is a list, but if we are speaking of "complex inter-relations," the underlying point of "complexity" is only strengthened when these beings are recognized.
+    
+71-2:  local complementarity test: "Regional ontologies are not made up of isolated entities, properties and the like; they are complementary networks of mutually consistent structural elements. Only when we have a plausible complementary *set* of such classifications, can we move on from this point."
+
+72:  downward recursion test: follows from hierarchical/laminated nature of emergence. Entities decomposed into parts; those parts are entities themselves that must be decomposed; repeat until you reach a level where the entities are adequately described; e.g., signs = signified + signifiers, but what parts constitute signified and signifiers?
+
+72-3:  retroduction test: "Realist regional theory is concerned with identifying the causal mechanisms underlying emergent properties (retroduction), and with explaining how these interact to produce events of interest (retrodiction). But it is impossible to identify mechanisms without identifying the property to be explained, the entity possessing it, and the characteristic set of parts and relations that underpin the mechanism. In other words, retroduction depends on filling out part of the related regional ontology."
+
+73:  emergence level test: "implicit in the twin problems of reduction and reification." "*Any* attribution of causal powers to a particular level of the ontological hierarchy is open to *both* these challenges, and hence to validate our own claims regarding emergent properties and the mechanisms responsible for them, we must develop and apply criteria for identifying the levels at which properties emerge. In fact a single criterion allows us to avoid both untenable reductions and untenable reifications, and this criterion is already implicit in the general theory of emergence: a property is emergent at the level where the parts of the entity possessing it would not themselves have the property if they were not organised into this sort of whole."
+
+75:  metatheory test: "We validate *theory* by working out its implications for the actual world in the form of hypotheses that can be tested against empirical evidence, and then revise the theory if it proves inadequate to the case. In a metamethodological parallel, we can validate *metatheory* by working out its implications for the development of theory in the form of methodological inferences that can then be tested in the process of theorising. Just as we should should be prepared to revise theory that proves inadequate, we should be prepared to revise metatheory if *it* proves inadequate."
+
+75-6:  summary of the five tests:
+
+1. *the local complementarity test*---make a hypothesis as to the type of structural element a concept of interest represents, then validate this by working out the complementary structural elements implicit in this hypothesis; if any of the latter are empirically untenable, revise your initial hypothesis and try again;
+2. *the downward recursion test*---when your hypothesis claims that a concept represents a type of entity identify the parts of this entity and ensure that these in turn are plausibly defined as entities, following the hierarchy of composition all the way down to a level that has a well-substantiated entity status;
+3. *the retroduction test*---when your hypothesis claims that a concept represents a type of property, identify the mechanism responsible for the property and the parts and relations on which the mechanism depends; having done so, return to the first iteration technique;
+4. *the emergence level test*---in addition, when your hypothesis suggests a property, validate the level at which the property emerges, by applying the criterion that a property is emergent at the level where the parts of the entity possessing it would not themselves have the property if they were not organised into this sort of whole; and
+5. *the metatheory test*---when this method seems to lead to untenable conclusions, consider revising the method and perhaps the underlying general ontology.
+
 Chapter 5: Agency
 ---
 
