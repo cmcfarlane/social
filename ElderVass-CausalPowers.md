@@ -142,6 +142,33 @@ Chapter 4: Social Ontology and Social Structure
 Chapter 5: Agency
 ---
 
+87:  "human individuals do indeed have causal powers of our own, and that those causal powers are emergent properties."
+
+87:  "Human action may be affected by social causes without being *fully determined* by them."
+
+89:  "Human individuals, I argue, have emergent causal powers. For the purpose of explaining how societies work, the most important of these powers is our generic power to act, including our powers to act communicatively."
+
+95:  "I suggest that *all* decision making works as follows: that we do make conscious decisions but these decisions are only the *indirect* and *partial* causes of our behaviour, in that (a) they occur in a variable length of time before the action concerned; and (b) they are always incomplete regarding the details of the action to be taken."
+
+96:  "Thus any single case of human behaviour may represent the (full or partial) realisation of a series of nested decisions of various sizes or scope."
+
+96:  "Decisions, then, do not seem to produce behaviour directly, but rather produce dispositions to behave in a given way in the future in certain circumstances. Indeed, we may define a *decision* as an event in which an episode of conscious reflection (a process) leads to changes in our dispositions (our tendencies to behave in particular ways). These dispositions then seem to be held with varying degrees of commitment, through being implemented in the brain as neural networks, in analogous way to beliefs that we hold with varying degrees of confidence."
+
+97:  four steps to the decision making model:
+
+1. *experience*: as a result of our experience we develop beliefs and also sometimes unconsciously acquire dispositions to act in certain ways, which are implemented at the neural level as neural networks;
+2. *decision making*: we possess the power to think consciously about our plans, beliefs and dispositions, and make decisions, which are co-determined causally by our thinking powers and the network of beliefs that they work upon;
+3. *decision storage*: having made decisions, these are stored in our neural networks as new or modified dispositions (note that there may be multiple loops back to step 2 before an action eventually occurs, including the 'last-minute' conscious review of some of our decisions); and,
+4. *action implementation*: our actions are determined directly and immediately by non-conscious brain processes that use our beliefs, previous decisions and skills as inputs.
+
+97:  "the most balanced story is one in which our conscious decision-making and our non-conscious behaviour determination appear as complementary and mutually necessary components in the causation of our actions."
+
+98:  "*reasons* can be causes of our actions, but they are only ever partial and contingent causes. Reasons are emergent mental properties (and thus causal powers of the individual concerned) that co-determine our *decisions* and decisions are stored in our brains as neural configurations---dispositions---which in turn co-determine our actions."
+
+102:  "Archer's account of human *social* action places conscious reflexive deliberation at its heart (although not her account of actions in the *natural* and *practical* orders)."
+
+103:  "There is a strongly humanistic element to Archer's stress on the conscious nature of our reflexive deliberations and the opportunity that they present us to make decisions for ourselves about how we will conduct our lives."
+
 Chapter 6: Normative Institutions
 ---
 
