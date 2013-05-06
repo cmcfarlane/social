@@ -129,6 +129,16 @@ Chapter 4: Social Ontology and Social Structure
 4. *the emergence level test*---in addition, when your hypothesis suggests a property, validate the level at which the property emerges, by applying the criterion that a property is emergent at the level where the parts of the entity possessing it would not themselves have the property if they were not organised into this sort of whole; and
 5. *the metatheory test*---when this method seems to lead to untenable conclusions, consider revising the method and perhaps the underlying general ontology.
 
+81:  "it may be implied that social structure-as-relations can be causally effective. Yet relations alone cannot have causal powers; indeed a relation cannot exist at all in the absence of the things related. It is only when specific entities (and thus specific causal powers) enter into a relationship that causal consequence can follow."
+
+81:  "Ultimately, then, the idea that structures have causal powers is incoherent if structure is taken to mean structures-as-relations and not structures-as-wholes."
+
+82:  "we can only make sense of social structure by reinstating this sense of structure-as-whole and identifying the social *entities* that can possess causal powers. These are the entities that are *structured by* structure-as-relations, that *possess* the properties sometimes misleadingly identified as structures themselves and that *cause* those (partial) empirical regularities sometimes misidentified as structures."
+
+82:  "The coherence of any bounded concept of society is extremely problematic. Those who use the concept often seem to assume that a society is co-terminous with the territory controlled by a particular state. States themselves may well control territory with well-defined spatial boundaries, at least in some respects. But they do not map neatly onto *societies*; there are many potential cross-cutting social systems that follow different boundaries, or none at all."
+
+82:  "Given the lack of coherence of the concept of society, it is hard to see how such a poorly defined entity could have real causal powers."
+
 Chapter 5: Agency
 ---
 
