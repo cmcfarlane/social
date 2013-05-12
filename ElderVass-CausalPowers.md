@@ -230,6 +230,22 @@ Chapter 6: Normative Institutions
 Chapter 7: Organisations
 ---
 
+145:  "On the one hand, the structure of organisations depends on the *roles* that their members occupy and these roles are essentially bundles of norms. Organisations are therefore fundamentally dependent on normative social institutions and thus the causal powers of norm circles. Some theorists have argued, on grounds like these, that organizations simply *are* social institutions, but I argue in this chapter that although there are many interesting and important interdependencies between organisations and institutions, they remain different sorts of things. They are different because the roles of members of organisations lead them to interact in ways that result in *further*, non-normative mechanisms, mechanisms that give organisations quite different sorts of causal powers that those possessed by norm circles."
+
+146:  "in at least some interaction situations, the participants may form a group with emergent causal powers and hence it [this section] will refer to the group of involved in an interaction situation as an *interaction group*."
+
+149:  "I define an *association* as a group of two or more people who have a continuing commitment to the group as such and not just to any normative institutions that the group may happen to instantiate. Perhaps the key respect in which associations differ from interaction groups is that as a result of this commitment the group can persist beyond the duration of a single interaction situation."
+
+152:  "In general, organisations are a type of association: they are groups of people who have a continuing commitment to the organisation as such. However, organisations tend to be more complex than the simple sorts of association discussed so far in this chapter, in at least two significant dimensions. First, they tend to be strongly structured by specialised *roles*; and secondly, they are marked by significant *authority* relations between at least some of these roles."
+
+153:  "Any organisation, I argue, is an entity composed of a group of human individuals, structured by a set of relationships between them (although I shall suggest below that they may also sometimes have non-human parts). These relationships are formalised in the *roles* or *social positions* occupied by the people in the organisation. Role descriptions implicitly or explicitly specify norms that define how an incumbent of the position concerned must relate to other members of the organisation and also how they must relate to outsiders when acting on behalf of the organisation. Some of these norms may be written down in formal job descriptions but roles may also be defined partly by less formal sets of expectations that other members of the organisation have of their incumbents."
+
+153:  "roles are not entities; rather, roles define relations between people. Roles, therefore, are not composed of parts (though we may think of them as bundles of relations), but instead are occupied by actual people."
+
+157:  "Indeed, there is no necessity that it is only human individuals that interact to produce these effects. The barbershop quartet may depend only on human individuals to produce its sound (at least in a synchronic sense and assuming an appropriate environment---one with air to breathe and vibrate, for example). But the pin producers need their tools; in a sense the power of the pin factory to produce pins at a certain is a power of an entity that includes both workers and their tools. If this is so, then the organisation here is a kind of hybrid entity: an entity that includes both people and other material things as its parts, and that depends on relations between both people and those other things to produce its emergent properties."
+
+158:  "When a role incumbent does act in the role, she adopts behaviours that have been specified by the organisation, as a result of acquiring a normative belief or disposition: the belief that role incumbents ought to act as specified by the normas that make up their role. The role incumbent, that is, is altered as an individual as a result of accepting the role in the organisation and thus we have a case of what was described in chapter 2 as *intrastructuration*. In such cases, we can say that the higher-leve entity, in this case the organisation, acts *through* the individual; those properties that the individual acquires by occupying their role are essentially properties of the organisation localised in the individual."
+
 Chapter 8: Social Events
 ---
 
