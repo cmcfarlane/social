@@ -249,6 +249,20 @@ Chapter 7: Organisations
 Chapter 8: Social Events
 ---
 
+178:  "All explanations must therefore necessarily neglect many of the causal powers that contribute to the event being explained. A good explanation will seek to focus selectively on the most relevant causal factors and there are at least two important criteria of relevance: first, the aspect of the event that we are seeking to explain, and secondly, which powers make the most significant contribution to this aspect of the event."
+
+179:  "Without seeking to legislate over our use of terms, let me try to bring some temporary order to this debate by suggesting that we can usefully distinguish between three different dimensions in which we could distinguish the macro-social. We may have *macro-actors*, events with *macro-consequences* and *macro-events*, which be further divided into *collective macro-events*, *statistical macro-events* and *historical macro-events*."
+
+179:  "Macro-actos can be equated directly with social entities with causal powers."
+
+180-1:  "In collective macro-events, a macro-actor acts, but through many of its parts at once and not just through a single one of its parts. Thus, for an army to charge, many soldiers must run forward at once and it is only when many micro-events of the required kind occur together that the macro-event occurs (these are therefore laminated events that include micro-social events a lower level, in the terms of chapter 3). In such cases, the macro-actor still acts through its parts, but it does so by acting through many of its parts at once, unlike the cases we have considered so far, in which a macro-actor may act through a single individual."
+
+181:  "Statistical macro-events, by contrast, are not actions of macro-actors but simply aggregations of micro-social events in which the actors are *not* parts of some common whole that acts through them."
+
+182:  "historical macro-events are similar to statistical macro-events in some respects. They are aggregations of micro-social events in which the actors are not necessarily parts of some common whole, but in which the set of micro-social events collectively constitute a change or episode of historical significance---the French Revolution, for example, or the Watergate scandal. The construction of such aggregations as a single macro-event is once again an artefact, but it may not be an artefact of an academic observer; the people involved may themselves see this as a coherent macro-event."
+
+184:  "events are changes in things."
+
 Conclusion
 ---
 
