@@ -263,6 +263,13 @@ Chapter 8: Social Events
 
 184:  "events are changes in things."
 
+191:  "For a full explanation of any actual social event, we must recognize the importance of the *multiple determination* of actual events. In principle, we need to identify all the powers that are interacting to produce the event and how they affect each other. Once we turn to retrodiction, we cannot invoke only social structural powers; we must bring back in the person and indeed a range of other entities that may have influenced the event concerned. In practice, however, retrodiction faces enormous challenges. It depends, for example, on retroductive accounts of the entities and mechanisms to which we attribute causal powers, which may be difficult to disentangle from other entities when there are complex inter-relationships between them. And even when we have a coherent view of some of the causal powers involved, we can never exhaustively identify all of the causal factors contributing to even a relatively simple social event."
+
 Conclusion
 ---
 
+197:  "Despite these naturalistic elements, the emergentist aapproach advocated here also retains what might seem to be an anti-naturalistic element. In recognising that entities at different ontological levels have different sorts of properties that must be studied in different sorts of ways, it implies that at least some of the methods of the social sciences will differ from the methodologies of other sciences. Thus, for example, we need an interpretive element in the social sciences that we do not need in, say, physics. This particular difference seems to distinguish sharply between the natural and the social sciences and thus to have *anti-naturalistic* implications."
+
+198:  "Nevertheless, it remains useful to examine similarities and differences between different groups of sciences and there is room for debate over the specific ways in which social entities are like and unlike other kinds of entities. Perhaps the biggest obstacle in recognising the similarities between social and other entities is the role that we ourselves play in them and the resulting temptation towards a causal variety of anthropocentrism: the temptation to see intentional human agents as the unique possessors of causal power in social interactions."
+
+199:  "Just as anthropocentrism might lead us to question the causal ordinariness of human beings with respect to their parts, it might lead to questioning the causal ordinariness of human beings with respect to the wholes of which they themselves are parts."
